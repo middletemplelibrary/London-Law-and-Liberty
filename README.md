@@ -11,11 +11,15 @@ In this exhibition, we explore that long and often complex relationship, from th
 <i>Please note: This exhibition includes material relating to colonialism, enslavement and violence against Indigenous communities. While outmoded terminology and images appear, these are presented to support critical engagement with the historical record and do not reflect contemporary usages, opinion or values.</i>
   <param ve-video id="YTHWT17bTLE"
        label="Video drone tour of the Middle Temple Library and Spanish Connections exhibition.">
+
 <h1>Magna Carta: A Pageant Drama, Thomas Wood Stevens, 1930</h1>
 Commissioned by the American Bar Association in 1928 to celebrate their 50th anniversary and highlight the importance of Magna Carta to the US Constitution, this pageant dramatized the events surrounding the sealing of the charter. One scene was set in a church of the Knights Templar at Dover, illustrating the important part their order played in the story of Magna Carta.
 <param ve-image 
-      url="https://github.com/user-attachments/assets/34fc02f2-9c0f-4273-bba6-cfa698fb1ada"
+      url="https://github.com/user-attachments/assets/d4c0a466-58aa-46cd-8216-706999157278)"
              attribution="Zbigniew Tomasz Kotkiewicz">
+
+##
+<img width="3910" height="2819" alt="Two" src="https://github.com/user-attachments/assets/d4c0a466-58aa-46cd-8216-706999157278" />
 
 
 
