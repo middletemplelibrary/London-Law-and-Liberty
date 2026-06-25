@@ -1,7 +1,8 @@
 <param ve-config 
        banner="https://github.com/user-attachments/assets/a0dc8768-6c9e-437b-b109-f6846c30c87d"
        layout="vertical">
-London, Law and Liberty: Middle Temple and the USA: 250 Years of Independence
+
+<h1>London, Law and Liberty: Middle Temple and the USA: 250 Years of Independence</h1>
 Welcome to Middle Temple Library’s online exhibition, London, Law & Liberty? Middle Temple and the USA: 250 Years of Independence, published in conjunction with an exhibition which runs in Middle Temple Library from June until September 2026.
 <br><br>
 This year, we mark 250 years since the Declaration of American Independence on 4 July 1776. Members of the Middle Temple played a significant role in this historic event and in the years which surrounded it, but the Inn’s American connections predate this by many centuries and endure to this day.
