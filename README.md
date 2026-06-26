@@ -111,5 +111,39 @@ A revolutionary future lay ahead for both students. Charles Cotesworth Pinckney 
 <param ve-image 
       url="https://github.com/user-attachments/assets/51b7e7ad-83f3-4a9d-a2f0-d02906bb37b7">
 
+## Penman of the Founding: A Biography of John Dickinson, Jane Calvert, 2024
+Born in Maryland in 1732 to a slaveholding family of tobacco planters, John Dickinson travelled to London in 1753 and joined the Inn. His letters home provide a rich picture of the activities, interests and diversions of an American colonial student in London.
+<br><br>
+He practiced law and wrote profusely on colonial rights and against the imposition of taxes from London, becoming known as the ‘Penman of the Revolution’. He was a[BB3.1] leading delegate at the Continental Congresses of the 1770s, but abstained from the vote on independence in 1776. At the Constitutional Convention he was vocal in his opposition to slavery. He had in 1777 freed over fifty of the enslaved people on his Delaware plantation, first indenturing them as servants but freeing them unconditionally in 1786. His gradual approach reflects the constraints of the time.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/27394f74-0dcb-4535-8aa5-e1b361a549a7">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/d5f9197f-f98f-43a6-a824-028572223f89">
+      
 ##
-<img width="2197" height="2653" alt="Twelve" src="https://github.com/user-attachments/assets/51b7e7ad-83f3-4a9d-a2f0-d02906bb37b7" />
+<img width="2377" height="3555" alt="Thirteen A" src="https://github.com/user-attachments/assets/27394f74-0dcb-4535-8aa5-e1b361a549a7" />
+
+##
+<img width="2577" height="4000" alt="Thirteen B" src="https://github.com/user-attachments/assets/d5f9197f-f98f-43a6-a824-028572223f89" />
+
+## John Dickinson on his legal studies 
+“I tread the walks frequented by the antient sages of the law; perhaps I study in the Chambers, where a Coke or Plowden has meditated: I am struck with Veneration… I almost seem to converse with them.”
+<br><br>
+“I have taken as much Pleasure in unravelling an intricate Point of Law as a Florist receives, When he sees some favourite flower, which he has long tended himself, at last unfold its glowing Colours, & breathe its sweet Perfumes”
+<br><br>
+“I fly to Books, to Retirement, to Labour, & every Moment is an Age, till I am immersed in Study.”
+<br><br>
+URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107 
+
+## Silver cauldron salt, 1756, and two silver pepper casters, 1751 and 1762
+Tableware such as this would have been a common sight in Hall during the eighteenth century. The salt was made by David Hennell of Gutter Lane and purchased in 1757. The pepper casters were made by Samuel Wood of Foster Lane and given in 1991 by Mark Emsley lee.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/303200d5-554a-48e1-83d3-60f9c36b2427">
+
+##
+<img width="1414" height="2000" alt="Fifteen" src="https://github.com/user-attachments/assets/303200d5-554a-48e1-83d3-60f9c36b2427" />
+
+## Middle Temple Hall, 1804
+This engraving shows the Hall as it would have looked in the mid-eighteenth century. The entrance tower exhibits the contemporary enthusiasm for classical styles, with a corniced belfry and a pedimented entrance flanked by obelisks.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/303200d5-554a-48e1-83d3-60f9c36b2427">
