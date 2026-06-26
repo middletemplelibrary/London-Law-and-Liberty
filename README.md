@@ -15,14 +15,16 @@ In this exhibition, we explore that long and often complex relationship, from th
 ## Magna Carta: A Pageant Drama, Thomas Wood Stevens, 1930
 Commissioned by the American Bar Association in 1928 to celebrate their 50th anniversary and highlight the importance of Magna Carta to the US Constitution, this pageant dramatized the events surrounding the sealing of the charter. One scene was set in a church of the Knights Templar at Dover, illustrating the important part their order played in the story of Magna Carta.
 <param ve-image 
-      url="https://github.com/user-attachments/assets/26a4810b-fdb0-45a4-aa9b-f671146aecc0"
+      url="https://github.com/user-attachments/assets/b7a39781-428b-410c-9896-0ab6781ae3fc"
              attribution="Engraved by Sands, from a Drawing by J.P.Neale">
 <param ve-image 
       url="https://github.com/user-attachments/assets/4c4c0993-c5ca-43f7-8235-a7bbac05fb7c"
              attribution="Engraved by Sands, from a Drawing by J.P.Neale">
 
-##
 <img width="3000" height="4000" alt="stupid photo 2a" src="https://github.com/user-attachments/assets/4c4c0993-c5ca-43f7-8235-a7bbac05fb7c" />
+##
+<img width="3910" height="2819" alt="Stupid photo Two A" src="https://github.com/user-attachments/assets/b7a39781-428b-410c-9896-0ab6781ae3fc" />
+
 
 
 ## Engraving of Temple Church, 1816
