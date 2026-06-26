@@ -142,10 +142,6 @@ This engraving shows the Hall as it would have looked in the mid-eighteenth cent
 <param ve-image 
       url="https://github.com/user-attachments/assets/51ac5044-c4da-4d7f-b80d-5ae6a59733a8">
 
-##
-<img width="2324" height="1515" alt="Sixteen" src="https://github.com/user-attachments/assets/51ac5044-c4da-4d7f-b80d-5ae6a59733a8" />
-
-
 ## John Dickinson on Middle Temple Hall 
 “When I view the Hall, where the most important Questions have been debated, where a Hampden, and a Holt have opposed encroaching Power... in short upon whose Judgements, the Happiness of a Nation has depended, I am filled with Awe & Reverence.”
 <br><br>
@@ -160,9 +156,6 @@ URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856
 Many American students took chambers in the Inn. Edward Rutledge, who went on to be the youngest signatory to the Declaration of Independence, lived at 6 Pump Court during his time here. The building still stands, well-known for a sundial dating from 1686, which would have been familiar to Rutledge.
 <param ve-image 
       url="https://github.com/user-attachments/assets/807f1cd0-a931-49c3-8ebf-e4caada6a6b2">
-
-##
-<img width="2424" height="2845" alt="Eighteen" src="https://github.com/user-attachments/assets/807f1cd0-a931-49c3-8ebf-e4caada6a6b2" />
 
 ## John Dickinson on life in chambers at the Inn
 “My chambers are fitted up & are very genteel… The chairs, tables, etc., are to be mahogony.”
@@ -186,8 +179,3 @@ Image © The Trustees of the British Museum
       url="https://github.com/user-attachments/assets/7d2635d4-1a72-4f66-a55f-db194e5c370b"
               Caption="‘Law is a Bottomless Pit’, satirical print by Anonymous, c1745 © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence."
              attribution="CC BY-NC-SA 4.0">
-             
-##
-<img width="2387" height="1636" alt="Twenty" src="https://github.com/user-attachments/assets/7d2635d4-1a72-4f66-a55f-db194e5c370b" />
-
-##
