@@ -62,5 +62,23 @@ Richard Martin was one of many Middle Templars passionately (and financially) in
 <param ve-image 
       url="https://github.com/user-attachments/assets/dcbe0ceb-97d9-40d1-9413-2a89c112d7b3">
 
+## A Map of Virginia, with a description of the countrey, the commodities, people, government and religion, Captain John Smith, 1612
+This map shows the Chesapeake Bay and other geographical features, as well as details of Indigenous settlements and communities (denoted by their English names) and the recently settled English colony. It is attributed to Captain John Smith, one of the first settlers, accompanying his account of the early years. 
+<br><br>
+Included is a depiction of Wahusenacawh, the paramount head of a regional confederation, known to the colonists as ‘Powhatan’. Also shown is one of the Susquehannock people of modern-day Pennsylvania, described as  ’a gyant-like people and thus attired’, an exaggerated and highly inaccurate portrayal. 
+<br><br>
+The map provides insight into Indigenous political and social organisation, albeit through the perspective of English colonists.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/e3c0d414-1d97-482c-8781-575c9172861d">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/9a361ec7-a199-41ad-b9f9-bb7b0113d0cf">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/afe0c5c6-2193-4ef0-9f6f-ad5ef0f01738">
 ##
-<img width="1386" height="2047" alt="Eight" src="https://github.com/user-attachments/assets/dcbe0ceb-97d9-40d1-9413-2a89c112d7b3" />
+<img width="6471" height="4975" alt="Nine A" src="https://github.com/user-attachments/assets/e3c0d414-1d97-482c-8781-575c9172861d" />
+
+##
+<img width="2477" height="3570" alt="Nine B" src="https://github.com/user-attachments/assets/9a361ec7-a199-41ad-b9f9-bb7b0113d0cf" />
+
+##
+<img width="2525" height="3603" alt="Nine C" src="https://github.com/user-attachments/assets/afe0c5c6-2193-4ef0-9f6f-ad5ef0f01738" />
