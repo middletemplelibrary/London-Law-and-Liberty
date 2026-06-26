@@ -127,7 +127,7 @@ He practiced law and wrote profusely on colonial rights and against the impositi
 <br><br>
 “I fly to Books, to Retirement, to Labour, & every Moment is an Age, till I am immersed in Study.”
 <br><br>
-URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107
+[URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107)
 <param ve-image 
       url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -147,7 +147,7 @@ This engraving shows the Hall as it would have looked in the mid-eighteenth cent
 <br><br>
 “I have enterd into Commons, that is, dining in Term time in the publick hall. We always have with us some of the… Benchers, and frequently some of the greatest lawyers.”
 <br><br>
-URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126
+[URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126)
 <param ve-image 
       url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -164,7 +164,7 @@ Many American students took chambers in the Inn. Edward Rutledge, who went on to
 <br><br>
 We then follow our studies till three or four o’clock, then we dine... we step into the coffee house, & in a little time return to our chambers for the evening.”
 <br><br>
-URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=95
+[URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=95](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=95)
 <param ve-image 
       url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -183,7 +183,7 @@ This satirical print shows the Court of King’s Bench in Westminster Hall. In t
 ## John Dickinson on the law courts at Westminster Hall 
 “Here we are not always plodding over books: Westminster Hall is a school of law where we not only hear what we have read repeated, but disputed & sifted in the most learned manner… The Barr is a perfect comment upon the written law, & every great man at it is in some measure a master & instructor to students who have the wisdom to attend.”
 <br><br>
-URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=118
+[URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=118](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=118)
 <param ve-image 
       url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -215,7 +215,7 @@ Coffee houses were key centres for conversation, debate and the exchange of info
 <br><br>
 “More is learnt of mankind here in a month than can be in a year in any other part of the world.”
 <br><br>
-URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=98
+[URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=98](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=98)
 <param ve-image 
       url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
              attribution="Zbigniew Tomasz Kotkiewicz">
@@ -282,3 +282,35 @@ While in London as a student at the Inn, Heyward experienced condescension and d
 Following his time in London, Lynch returned to South Carolina, but gave up the law to manage his family plantation and enter politics. He served on the Provincial Congress and later the Continental Congress. Here he vehemently opposed movements to abolish slavery in the new United States, threatening the secession of South Carolina, a stance reflecting the determination of some elites to preserve slavery. He and his wife were lost at sea in 1779.
 <br><br>
 [Image from The New York Public Library Digital Collections.](https://digitalcollections.nypl.org/items/e4001600-c581-012f-8db4-58d385a7bc34)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/c5b9d37f-08f9-46f0-bfd6-4f7e20fab214"
+              caption="The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library. "Thomas Lynch." The New York Public Library Digital Collections. 1800 - 1910. "
+
+##
+<img width="478" height="761" alt="Thirty One" src="https://github.com/user-attachments/assets/c5b9d37f-08f9-46f0-bfd6-4f7e20fab214" />
+
+## Edward Rutledge - Admitted: 1767 - Called: 1772
+Rutledge followed his elder brothers to study at the Inn. A delegate at the Second Continental Congress, his stance on independence shifted; eventually he convinced his fellow South Carolinans to vote in favour and became the Declaration’s youngest signatory. During the war, he sought to expel Black soldiers from the revolutionary army, fearing the consequences, as an enslaver himself, of their being armed. He later served as Governor of South Carolina.
+<br><br>
+[Image from the National Portrait Gallery, Smithsonian Institution.](http://n2t.net/ark:/65665/sm42b3e3f6e-f4ee-46ce-a2b7-fab06b09b9f5)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/ff3771a8-c3fc-450d-93dd-5450db359810"
+              caption="Portrait of Edward Rutledge, Unidentified artist, 1802, National Portrait Gallery, Smithsonian Institution."
+              attribution="CC0 / Public Domain">
+
+##
+<img width="751" height="929" alt="Thirty Two" src="https://github.com/user-attachments/assets/ff3771a8-c3fc-450d-93dd-5450db359810" />
+
+## A View of the Constitution of the British Colonies, in North-America and the West Indies, at the time the civil war broke out on the continent of America, A. Stokes, 1783
+Anthony Stokes was an Inner Templar who was appointed Chief Justice of Georgia in 1769. Described as a ‘man of integrity, courage, and ability’, his tenure was disrupted by the revolution but he was in Savannah for the Franco-American bombardment of 1779 and later sought financial compensation for his wartime experiences.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/cf22c4c7-9ccf-4492-b47e-5f9ddc614630">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/7bdc518e-528f-4c5a-b921-64992e8fac91">
+
+##
+<img width="2368" height="3860" alt="Thirty Three A" src="https://github.com/user-attachments/assets/cf22c4c7-9ccf-4492-b47e-5f9ddc614630" />
+
+##
+<img width="2273" height="3759" alt="Thirty Three B" src="https://github.com/user-attachments/assets/7bdc518e-528f-4c5a-b921-64992e8fac91" />
+
