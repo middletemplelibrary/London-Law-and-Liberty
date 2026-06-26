@@ -17,10 +17,6 @@ Commissioned by the American Bar Association in 1928 to celebrate their 50th ann
 <param ve-image 
       url="https://github.com/user-attachments/assets/37806b7e-085a-4ecf-b23a-cd15fe31855a"
 
-##
-<img width="3910" height="2819" alt="Two" src="https://github.com/user-attachments/assets/37806b7e-085a-4ecf-b23a-cd15fe31855a" />
-
-
 <h1>Engraving of Temple Church, 1816</h1>
 The Round Church of the Knights Templar was an important site in the events and negotiations that led to Magna Carta. The Temple served as one of the London Headquarters of King John during the crisis of 1214-15, and it was here that he was confronted by the Barons and their demands at Epiphany 1215.
 <br><br>
