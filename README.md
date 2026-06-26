@@ -127,7 +127,10 @@ He practiced law and wrote profusely on colonial rights and against the impositi
 <br><br>
 “I fly to Books, to Retirement, to Labour, & every Moment is an Age, till I am immersed in Study.”
 <br><br>
-URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107 
+URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107
+<param ve-image 
+      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
+             attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Silver cauldron salt, 1756, and two silver pepper casters, 1751 and 1762
 Tableware such as this would have been a common sight in Hall during the eighteenth century. The salt was made by David Hennell of Gutter Lane and purchased in 1757. The pepper casters were made by Samuel Wood of Foster Lane and given in 1991 by Mark Emsley lee.
@@ -137,7 +140,11 @@ Tableware such as this would have been a common sight in Hall during the eightee
 ## Middle Temple Hall, 1804
 This engraving shows the Hall as it would have looked in the mid-eighteenth century. The entrance tower exhibits the contemporary enthusiasm for classical styles, with a corniced belfry and a pedimented entrance flanked by obelisks.
 <param ve-image 
-      url="https://github.com/user-attachments/assets/303200d5-554a-48e1-83d3-60f9c36b2427">
+      url="https://github.com/user-attachments/assets/51ac5044-c4da-4d7f-b80d-5ae6a59733a8">
+
+##
+<img width="2324" height="1515" alt="Sixteen" src="https://github.com/user-attachments/assets/51ac5044-c4da-4d7f-b80d-5ae6a59733a8" />
+
 
 ## John Dickinson on Middle Temple Hall 
 “When I view the Hall, where the most important Questions have been debated, where a Hampden, and a Holt have opposed encroaching Power... in short upon whose Judgements, the Happiness of a Nation has depended, I am filled with Awe & Reverence.”
@@ -145,10 +152,42 @@ This engraving shows the Hall as it would have looked in the mid-eighteenth cent
 “I have enterd into Commons, that is, dining in Term time in the publick hall. We always have with us some of the… Benchers, and frequently some of the greatest lawyers.”
 <br><br>
 URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126
+<param ve-image 
+      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
+             attribution="Zbigniew Tomasz Kotkiewicz">
 
 ## Edward Rutledge’s Surrender of Chambers at 6 Pump Court, 4 July 1772
 Many American students took chambers in the Inn. Edward Rutledge, who went on to be the youngest signatory to the Declaration of Independence, lived at 6 Pump Court during his time here. The building still stands, well-known for a sundial dating from 1686, which would have been familiar to Rutledge.
 <param ve-image 
-      url="https://github.com/user-attachments/assets/92089ecc-c22a-4c1f-8d44-b12278c7aa9c">
+      url="https://github.com/user-attachments/assets/807f1cd0-a931-49c3-8ebf-e4caada6a6b2">
+
+##
+<img width="2424" height="2845" alt="Eighteen" src="https://github.com/user-attachments/assets/807f1cd0-a931-49c3-8ebf-e4caada6a6b2" />
+
+## John Dickinson on life in chambers at the Inn
+“My chambers are fitted up & are very genteel… The chairs, tables, etc., are to be mahogony.”
+<br><br>
+“A laundress attends by seven in the morning, lights our fire, brings the bread, milk & butter, & puts on our tea kettle. We wait on ourselves at breakfast, which is no manner of trouble...
+<br><br>
+We then follow our studies till three or four o’clock, then we dine... we step into the coffee house, & in a little time return to our chambers for the evening.”
+<br><br>
+URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=95
+<param ve-image 
+      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
+             attribution="Zbigniew Tomasz Kotkiewicz">
+
+## ‘Law is a Bottomless Pit’, c1745 © The Trustees of the British Museum
+Students at the Middle Temple would often attend the courts in Westminster Hall, just a short walk or boat ride along the river, to observe the law in action first hand.
+<br><br>
+This satirical print shows the Court of King’s Bench in Westminster Hall. In the foreground lawyers speak to potential clients, a woman sells oranges and a boy picks a pocket. Above, a wolf intones: “Here seems a very Gallant-Show, Prey now, Good Folks, what’s here to do…”
+<br><br>
+Image © The Trustees of the British Museum  
+<param ve-image 
+      url="https://github.com/user-attachments/assets/7d2635d4-1a72-4f66-a55f-db194e5c370b"
+              Caption="‘Law is a Bottomless Pit’, satirical print by Anonymous, c1745 © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence."
+             attribution="CC BY-NC-SA 4.0">
+             
+##
+<img width="2387" height="1636" alt="Twenty" src="https://github.com/user-attachments/assets/7d2635d4-1a72-4f66-a55f-db194e5c370b" />
 
 ##
