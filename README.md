@@ -104,9 +104,12 @@ Students would also take advantage of their presence in the capital by attending
               Attribution="John Smibert, Public domain, via Wikimedia Commons."
              Caption="The Temple 1722, Published 1st Sept. 1831 by R. H. Laurie, 53 Fleet Street, London (MT/19/ILL/D/D8/30).">
              
-##
-<img width="786" height="966" alt="Eleven A" src="https://github.com/user-attachments/assets/0db8b3a6-f9dc-402f-8984-fae387fa7909" />
+## Candlelight Exercise, 1768
+This records an exercise undertaken by two American students concerning a father’s obligation of maintenance under the Elizabethan Statute of Charitable Uses to his daughter, who had converted from Judaism to Christianity.
+<br><br>
+A revolutionary future lay ahead for both students. Charles Cotesworth Pinckney served as a Brigadier General in the Revolutionary War and signed the Constitution; he was a lifelong enslaver and fiercely opposed to emancipation. Thomas Heyward, also an enslaver, was one of five signatories to the Declaration of Independence who studied at the Inn.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/51b7e7ad-83f3-4a9d-a2f0-d02906bb37b7">
 
 ##
-<img width="1198" height="915" alt="Eleven B" src="https://github.com/user-attachments/assets/828fd807-b4fd-4847-805e-157176c50a50" />
-
+<img width="2197" height="2653" alt="Twelve" src="https://github.com/user-attachments/assets/51b7e7ad-83f3-4a9d-a2f0-d02906bb37b7" />
