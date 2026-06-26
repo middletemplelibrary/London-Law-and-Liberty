@@ -85,8 +85,28 @@ Elizabeth and Frederick’s great-great-great-grandson was King George III, who 
 Image © National Portrait Gallery, London
 <param ve-image 
       url="https://github.com/user-attachments/assets/158170d0-0037-4d7a-ae32-feb56e387ae5"
+              Attribution="CC BY-NC-ND 3.0"
              Caption="Princess Elizabeth, Queen of Bohemia and Electress Palatine, by Unknown artist, oil on panel, 1613, NPG 5529 © National Portrait Gallery, London">
+
+<h1>American Students at the Inn</h1>
+
+The first Middle Temple student known to be from the English colonies in America was admitted to the Inn in 1692—one Benjamin Lynde of Boston. Over the decades to come, over 150 young men would cross the Atlantic for a legal education in London.
+<br><br>
+Their time would be spent taking part in educational exercises, as well as studying legal texts in the Inn’s library. They would also participate fully in the Inn’s collegiate life, often living in chambers and dining regularly in Hall. Here they would rub shoulders with fellow students, practising barristers and some of the leading legal figures of the day—including the great William Blackstone.
+<br><br>
+Students would also take advantage of their presence in the capital by attending the courts at Westminster Hall and observing Parliamentary debates—as well as enjoying the many cultural activities, entertainments and temptations London had to offer.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/0db8b3a6-f9dc-402f-8984-fae387fa7909"
+              Attribution="John Smibert, Public domain, via Wikimedia Commons."
+             Caption="Benjamin Lynde, Sr., John Smibert, 1731">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/828fd807-b4fd-4847-805e-157176c50a50"
+              Attribution="John Smibert, Public domain, via Wikimedia Commons."
+             Caption="The Temple 1722, Published 1st Sept. 1831 by R. H. Laurie, 53 Fleet Street, London (MT/19/ILL/D/D8/30).">
              
 ##
-<img width="633" height="800" alt="Ten" src="https://github.com/user-attachments/assets/158170d0-0037-4d7a-ae32-feb56e387ae5" />
+<img width="786" height="966" alt="Eleven A" src="https://github.com/user-attachments/assets/0db8b3a6-f9dc-402f-8984-fae387fa7909" />
+
+##
+<img width="1198" height="915" alt="Eleven B" src="https://github.com/user-attachments/assets/828fd807-b4fd-4847-805e-157176c50a50" />
 
