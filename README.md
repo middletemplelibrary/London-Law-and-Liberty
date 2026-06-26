@@ -15,7 +15,11 @@ In this exhibition, we explore that long and often complex relationship, from th
 <h1>Magna Carta: A Pageant Drama, Thomas Wood Stevens, 1930</h1>
 Commissioned by the American Bar Association in 1928 to celebrate their 50th anniversary and highlight the importance of Magna Carta to the US Constitution, this pageant dramatized the events surrounding the sealing of the charter. One scene was set in a church of the Knights Templar at Dover, illustrating the important part their order played in the story of Magna Carta.
 <param ve-image 
-      url="https://github.com/user-attachments/assets/d4c0a466-58aa-46cd-8216-706999157278"
+      url="https://github.com/user-attachments/assets/37806b7e-085a-4ecf-b23a-cd15fe31855a"
+
+##
+<img width="3910" height="2819" alt="Two" src="https://github.com/user-attachments/assets/37806b7e-085a-4ecf-b23a-cd15fe31855a" />
+
 
 <h1>Engraving of Temple Church, 1816</h1>
 The Round Church of the Knights Templar was an important site in the events and negotiations that led to Magna Carta. The Temple served as one of the London Headquarters of King John during the crisis of 1214-15, and it was here that he was confronted by the Barons and their demands at Epiphany 1215.
