@@ -284,7 +284,7 @@ Following his time in London, Lynch returned to South Carolina, but gave up the 
 [Image from The New York Public Library Digital Collections.](https://digitalcollections.nypl.org/items/e4001600-c581-012f-8db4-58d385a7bc34)
 <param ve-image 
       url="https://github.com/user-attachments/assets/c5b9d37f-08f9-46f0-bfd6-4f7e20fab214"
-              caption="The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library. "Thomas Lynch." The New York Public Library Digital Collections. 1800 - 1910. "
+              caption="The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Print Collection, The New York Public Library. "Thomas Lynch." The New York Public Library Digital Collections. 1800 - 1910.">
 
 ##
 <img width="478" height="761" alt="Thirty One" src="https://github.com/user-attachments/assets/c5b9d37f-08f9-46f0-bfd6-4f7e20fab214" />
