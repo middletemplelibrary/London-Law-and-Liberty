@@ -56,7 +56,11 @@ Raleigh joined the Inn in 1574, although like many was never Called to the Bar. 
 <param ve-image 
       url="https://github.com/user-attachments/assets/d28190ba-f22e-4bec-855f-a4f6d93ffe0c"
              attribution="Armorial Glass of Sir Walter Raleigh, north window of Middle Temple Hall.">
+
+## Engraving of Richard Martin
+Richard Martin was one of many Middle Templars passionately (and financially) invested in the colonial mission. He served as Counsel to the Virginia Company and co-produced The Memorable Masque of 1613.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/dcbe0ceb-97d9-40d1-9413-2a89c112d7b3"
+
 ##
-<img width="989" height="1550" alt="Seven" src="https://github.com/user-attachments/assets/d28190ba-f22e-4bec-855f-a4f6d93ffe0c" />
-
-
+<img width="1386" height="2047" alt="Eight" src="https://github.com/user-attachments/assets/dcbe0ceb-97d9-40d1-9413-2a89c112d7b3" />
