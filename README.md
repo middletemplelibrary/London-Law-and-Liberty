@@ -49,13 +49,13 @@ In 1606 King James VI & I chartered the Virginia Company of London to establish 
 The colony eventually turned a corner, thanks to the cultivation of tobacco on plantations which relied increasingly on the labour of enslaved men and women. The company adopted a ‘Great Charter’ in 1618, establishing a new system of government and drafted by the Middle Templar Edwin Sandys, but in 1624 King James took over the colony.
 <param ve-image 
       url="https://github.com/user-attachments/assets/dd8d34da-d432-4449-a3a1-666b98771c23"
-             attribution="North America on the terrestrial Molyneux Globe.">
+             Caption="North America on the terrestrial Molyneux Globe.">
 
 ## Armorial Glass of Sir Walter Raleigh
 Raleigh joined the Inn in 1574, although like many was never Called to the Bar. He was granted in 1584 a charter authorising him to explore, colonise and rule territories already inhabited by Indigenous peoples, described as ‘remote, heathen and barbarous lands’, terms which reflect the prejudices and assumptions of the period.[
 <param ve-image 
       url="https://github.com/user-attachments/assets/d28190ba-f22e-4bec-855f-a4f6d93ffe0c"
-             attribution="Armorial Glass of Sir Walter Raleigh, north window of Middle Temple Hall.">
+             Caption="Armorial Glass of Sir Walter Raleigh, north window of Middle Temple Hall.">
 
 ## Engraving of Richard Martin
 Richard Martin was one of many Middle Templars passionately (and financially) invested in the colonial mission. He served as Counsel to the Virginia Company and co-produced The Memorable Masque of 1613.
@@ -74,11 +74,19 @@ The map provides insight into Indigenous political and social organisation, albe
       url="https://github.com/user-attachments/assets/9a361ec7-a199-41ad-b9f9-bb7b0113d0cf">
 <param ve-image 
       url="https://github.com/user-attachments/assets/afe0c5c6-2193-4ef0-9f6f-ad5ef0f01738">
-##
-<img width="6471" height="4975" alt="Nine A" src="https://github.com/user-attachments/assets/e3c0d414-1d97-482c-8781-575c9172861d" />
 
+## Princess Elizabeth, Queen of Bohemia and Electress Palatine, Unknown artist, 1613, NPG 5529 © National Portrait Gallery
+The 1613 wedding of Princess Elizabeth, daughter of King James, to Frederick, Prince Palatine of the Rhine, was the occasion for the Memorable Masque, an elaborate courtly entertainment featuring acting, dancing, music and singing staged by Middle Temple and Lincoln’s Inn, themed around colonial Virginia.
+<br><br>
+This theme reflected the preoccupations of the many Middle Templars invested in the struggling Virginia Company. The narrative was an allegory for the bounty and blessings to be gained by marrying the quest for colonial wealth with honourable motives (the imposition of Protestant Christianity and British rule) with King James as sponsor and figurehead. Contemporary accounts record that many of the performers were dressed as Indigenous Americans, in robes and headdresses designed by Inigo Jones featuring ostrich feathers and golden sunbeams - inaccurate representations which exoticised Indigenous cultures and peoples.
+<br><br>
+Elizabeth and Frederick’s great-great-great-grandson was King George III, who was on the throne when the Declaration of Independence was signed in 1776. 
+<br><br>
+Image © National Portrait Gallery, London
+<param ve-image 
+      url="https://github.com/user-attachments/assets/158170d0-0037-4d7a-ae32-feb56e387ae5"
+             Caption="Princess Elizabeth, Queen of Bohemia and Electress Palatine, by Unknown artist, oil on panel, 1613, NPG 5529 © National Portrait Gallery, London">
+             
 ##
-<img width="2477" height="3570" alt="Nine B" src="https://github.com/user-attachments/assets/9a361ec7-a199-41ad-b9f9-bb7b0113d0cf" />
+<img width="633" height="800" alt="Ten" src="https://github.com/user-attachments/assets/158170d0-0037-4d7a-ae32-feb56e387ae5" />
 
-##
-<img width="2525" height="3603" alt="Nine C" src="https://github.com/user-attachments/assets/afe0c5c6-2193-4ef0-9f6f-ad5ef0f01738" />
