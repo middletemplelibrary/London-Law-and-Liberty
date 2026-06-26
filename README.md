@@ -28,11 +28,19 @@ Magna Carta went on to underpin the US Constitution and the Bill of Rights in it
 <param ve-image 
       url="https://github.com/user-attachments/assets/933ca6ad-c108-4891-9c8d-1b0b81179647"
              attribution="Engraved by Sands, from a Drawing by J.P.Neale">
+
+## Middle Templars’ Associations with America, Sir Lynden Macassey KBE, 1998
+This volume, by Sir Lynden Macassey, Treasurer 1934 and Honorary member of the American Bar Association, discusses the many links between members of the Inn and the United States of America.[
+
+## Admission of Benjamin Lynde, 1692
+This volume, recording admissions to the Inn, details the first known member from the English colonies in America. The young man in question was Benjamin Lynde, described as the 3rd son of the merchant Samuel Lynde, ‘de Boston in Nova Anglia’.
+Benjamin was born in 1666 and graduated from Harvard in 1686, before sailing for England and joining the Inn in 1692. He was Called to the Bar in 1697 and was appointed King’s Advocate in the recently-established vice-admiralty court in Boston. The unpopularity and perceived injustice of such courts would later be among the causes of the American Revolution.
+He was appointed a judge in 1712 and in 1728 became Chief Justice of the Province of Massachusetts Bay. His obituary in 1745 recorded that ‘Inflexible justice, unspotted integrity, affability, and humanity were ever conspicuous in him’.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/fb77ea90-b8a0-484d-b5cf-71ac6d973ab8">
+
 ##
-<img width="1237" height="1873" alt="Three" src="https://github.com/user-attachments/assets/933ca6ad-c108-4891-9c8d-1b0b81179647" />
-
-
-
+<img width="650" height="142" alt="Five" src="https://github.com/user-attachments/assets/fb77ea90-b8a0-484d-b5cf-71ac6d973ab8" />
 
 
 
