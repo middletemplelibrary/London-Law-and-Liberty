@@ -34,16 +34,24 @@ This volume, by Sir Lynden Macassey, Treasurer 1934 and Honorary member of the A
 
 ## Admission of Benjamin Lynde, 1692
 This volume, recording admissions to the Inn, details the first known member from the English colonies in America. The young man in question was Benjamin Lynde, described as the 3rd son of the merchant Samuel Lynde, ‘de Boston in Nova Anglia’.
+<br><br>
 Benjamin was born in 1666 and graduated from Harvard in 1686, before sailing for England and joining the Inn in 1692. He was Called to the Bar in 1697 and was appointed King’s Advocate in the recently-established vice-admiralty court in Boston. The unpopularity and perceived injustice of such courts would later be among the causes of the American Revolution.
+<br><br>
 He was appointed a judge in 1712 and in 1728 became Chief Justice of the Province of Massachusetts Bay. His obituary in 1745 recorded that ‘Inflexible justice, unspotted integrity, affability, and humanity were ever conspicuous in him’.
 <param ve-image 
       url="https://github.com/user-attachments/assets/fb77ea90-b8a0-484d-b5cf-71ac6d973ab8">
 
-<h2>Exploration & Empire</h2>
+<h1>Exploration & Empire</h1>
+The Inn’s American connections date back to the reign of Queen Elizabeth I. In 1585, the Middle Templar Sir Walter Raleigh founded the first English colonial settlement in America on Roanoke, an island off the coast of modern-day North Carolina already inhabited and governed by Indigenous peoples. Another member, Philip Amadas, commanded one of the expedition’s ships and was fined twenty shillings for his absence from the Inn. The settlement failed, but the Inn remained a centre of interest in colonial ventures.
+<br><br>
+In 1606 King James VI & I chartered the Virginia Company of London to establish a new colony, and many Middle Templars were among those involved and invested in the project. The explorer Bartholomew Gosnold, admitted to the Inn in 1593, heavily promoted the initiative, and served as Vice-Admiral of the Company’s first expedition in 1607, which established the Jamestown colony, an event which led to displacement and violence against Indigenous peoples in the region. The struggling fortunes of the colony by 1613 led Middle Templars in London to produce The Memorable Masque, a courtly entertainment with a Virginian theme, aimed at reigniting royal support.
+<br><br>
+The colony eventually turned a corner, thanks to the cultivation of tobacco on plantations which relied increasingly on the labour of enslaved men and women. The company adopted a ‘Great Charter’ in 1618, establishing a new system of government and drafted by the Middle Templar Edwin Sandys, but in 1624 King James took over the colony.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/dd8d34da-d432-4449-a3a1-666b98771c23"
+             attribution="North America on the terrestrial Molyneux Globe.">
 
 ##
-<img width="650" height="142" alt="Five" src="https://github.com/user-attachments/assets/fb77ea90-b8a0-484d-b5cf-71ac6d973ab8" />
-
-
+<img width="2309" height="1732" alt="Six" src="https://github.com/user-attachments/assets/dd8d34da-d432-4449-a3a1-666b98771c23" />
 
 
