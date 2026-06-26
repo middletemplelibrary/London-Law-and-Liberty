@@ -51,7 +51,12 @@ The colony eventually turned a corner, thanks to the cultivation of tobacco on p
       url="https://github.com/user-attachments/assets/dd8d34da-d432-4449-a3a1-666b98771c23"
              attribution="North America on the terrestrial Molyneux Globe.">
 
+## Armorial Glass of Sir Walter Raleigh
+Raleigh joined the Inn in 1574, although like many was never Called to the Bar. He was granted in 1584 a charter authorising him to explore, colonise and rule territories already inhabited by Indigenous peoples, described as ‘remote, heathen and barbarous lands’, terms which reflect the prejudices and assumptions of the period.[
+<param ve-image 
+      url="https://github.com/user-attachments/assets/d28190ba-f22e-4bec-855f-a4f6d93ffe0c"
+             attribution="Armorial Glass of Sir Walter Raleigh, north window of Middle Temple Hall.">
 ##
-<img width="2309" height="1732" alt="Six" src="https://github.com/user-attachments/assets/dd8d34da-d432-4449-a3a1-666b98771c23" />
+<img width="989" height="1550" alt="Seven" src="https://github.com/user-attachments/assets/d28190ba-f22e-4bec-855f-a4f6d93ffe0c" />
 
 
