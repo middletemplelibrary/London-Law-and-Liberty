@@ -82,7 +82,7 @@ This theme reflected the preoccupations of the many Middle Templars invested in 
 <br><br>
 Elizabeth and Frederick’s great-great-great-grandson was King George III, who was on the throne when the Declaration of Independence was signed in 1776. 
 <br><br>
-Image © National Portrait Gallery, London
+[Image © National Portrait Gallery, London](https://www.npg.org.uk/collections/search/portrait/mw07343/Princess-Elizabeth-Queen-of-Bohemia-and-Electress-Palatine)
 <param ve-image 
       url="https://github.com/user-attachments/assets/158170d0-0037-4d7a-ae32-feb56e387ae5"
               Attribution="CC BY-NC-ND 3.0"
@@ -174,8 +174,111 @@ Students at the Middle Temple would often attend the courts in Westminster Hall,
 <br><br>
 This satirical print shows the Court of King’s Bench in Westminster Hall. In the foreground lawyers speak to potential clients, a woman sells oranges and a boy picks a pocket. Above, a wolf intones: “Here seems a very Gallant-Show, Prey now, Good Folks, what’s here to do…”
 <br><br>
-Image © The Trustees of the British Museum  
+[Image © The Trustees of the British Museum](https://www.britishmuseum.org/collection/object/P_1868-0808-13286)
 <param ve-image 
       url="https://github.com/user-attachments/assets/7d2635d4-1a72-4f66-a55f-db194e5c370b"
               Caption="‘Law is a Bottomless Pit’, satirical print by Anonymous, c1745 © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence."
              attribution="CC BY-NC-SA 4.0">
+
+## John Dickinson on the law courts at Westminster Hall 
+“Here we are not always plodding over books: Westminster Hall is a school of law where we not only hear what we have read repeated, but disputed & sifted in the most learned manner… The Barr is a perfect comment upon the written law, & every great man at it is in some measure a master & instructor to students who have the wisdom to attend.”
+<br><br>
+URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=118
+<param ve-image 
+      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
+             attribution="Zbigniew Tomasz Kotkiewicz">
+
+## Playing Cards
+In moments of leisure between time spent studying legal tomes and attending court, students would have engaged in quiet pastimes such as playing cards. This deck is a reproduction of one from around 1750.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/66ac3670-8027-48e7-a25d-fdf91ef9eaa1">
+
+##
+<img width="1414" height="2000" alt="Tenty Two" src="https://github.com/user-attachments/assets/66ac3670-8027-48e7-a25d-fdf91ef9eaa1" />
+
+## The Coffee-House’, After H.W. Bunbury, 1781 © The Trustees of the British Museum
+Coffee houses were key centres for conversation, debate and the exchange of information, and were popular haunts for students at the Inn. The Carolina Coffee House on Birchin Lane was particularly popular with customers from the colonies, and would have been invaluable for American students seeking news of home.
+<br><br>
+[Image [AK6.1]© The Trustees of the British Museum.](https://www.britishmuseum.org/collection/object/P_1893-0731-61)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/df1fb6d9-19c1-489a-a67e-45faeb43b558"
+              caption="The Coffee-House’, After H.W. Bunbury, 1781 © The Trustees of the British Museum. Shared under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) licence."
+             attribution="CC BY-NC-SA 4.0">
+
+##
+<img width="2500" height="2067" alt="Twenty Three" src="https://github.com/user-attachments/assets/df1fb6d9-19c1-489a-a67e-45faeb43b558" />
+
+## John Dickinson on life in London
+“You will not imagine I have been a stranger at the play houses... Some actors, especially Garrick & Mrs Pritchard, are exact pictures of life…”
+<br><br>
+“As to the vicious pleasures of London, I know not what they are; I never hear [or] think of them.”
+<br><br>
+“More is learnt of mankind here in a month than can be in a year in any other part of the world.”
+<br><br>
+URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=98
+<param ve-image 
+      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
+             attribution="Zbigniew Tomasz Kotkiewicz">
+
+<h1>Revolution</h1>
+British taxation of its American colonies in the 1760s led[BB7.1] to a war of words in which members of the Inn played a key role. John Dickinson wrote his influential Letters from a Farmer in Pennsylvania in response to the Townshend Acts of 1767, and in London the Middle Templar MPs Edmund Burke and John Dunning were among those advocating for the colonists and their grievances.
+<br><br>
+Spurred by the ‘Intolerable Acts’ of 1774, the First Continental Congress convened, led by a Middle Templar, Peyton Randolph, and submitted a petition to the King (drafted by Dickinson). Its rejection led to the outbreak of war the following spring, and a Second Continental Congress convened in May 1775.
+<br><br>
+By the summer of 1776, the clamour for independence had grown. Congress passed a resolution on 2 July 1776 and two days later the Declaration of Independence was unanimously ratified, being signed by 56 delegates, including 5 members of the Middle Temple.  John Dickinson, feeling the time was yet ripe, abstained from the vote. The war would rage on until 1783.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/790c48d4-91ce-4e9e-bd5d-8a1945c20137"
+             caption="Facsimile Declaration of Independence, 1817, with detail showing the signatures of five Middle Templars (MT.18/USA)">
+
+##
+<img width="4164" height="5223" alt="Twenty Five" src="https://github.com/user-attachments/assets/790c48d4-91ce-4e9e-bd5d-8a1945c20137" />
+
+## Mr Burke’s Speech On American Taxation, Edmund Burke, 19 April 1774
+A statesman, writer and Middle Templar, Burke began his long career as an MP in 1765. A staunch advocate for conciliation with the American colonies, he appealed repeatedly for peace. In this speech, he argues that the colonies should be allowed to tax themselves, and warns of the impending conflict should the matter not be resolved.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/cb970d55-b34f-44eb-a5d0-c3e4f338d232">
+
+##
+<img width="3594" height="2854" alt="Twenty Six" src="https://github.com/user-attachments/assets/cb970d55-b34f-44eb-a5d0-c3e4f338d232" />
+
+<h1>Middle Templar Signatories</h1>
+
+## Arthur Middleton - Admitted: 1757
+Middleton, a South Carolinan, was sent to England at the age of 12, studying at Cambridge and the Inn before touring Europe. Back home, he entered politics and became increasingly radical in opposition to London, serving on provincial congresses and in 1776 being elected to the Continental Congress. He was taken prisoner at Charleston in 1780, and later retired to Middleton Place, an estate and rice plantation where over 100 enslaved people were forced into labour.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/9a505a94-2901-45d1-a3ae-6312d0f251d2"
+              caption="Detail from a 1771 family portrait of the Middleton Family. The full portrait depicts Arthur Middleton (1742-1787); his wife Mary Izard Middleton (1747-1814), and their infant son Henry (1770-1846)."
+              attribution="Benjamin West, Public domain, via Wikimedia Commons.">
+
+##
+<img width="628" height="774" alt="Twenty Eight" src="https://github.com/user-attachments/assets/9a505a94-2901-45d1-a3ae-6312d0f251d2" />
+
+
+## Thomas McKean - Admitted: 1758
+Of Irish descent, McKean was born in Pennsylvania and after his education in London practiced in Delaware, becoming an influential advocate for independence. While he was present for the crucial vote and debated the Declaration’s wording, military duty prevented his signing the document until years later. He drafted the State constitution of Delaware and later served as Pennsylvania’s Chief Justice from 1777 to 1799, thereafter serving as Governor until 1808.
+<br><br>
+[Image from National Portrait Gallery, Smithsonian Institution.](https://npg.si.edu/object/npg_NPG.66.63)
+<param ve-image 
+      url="https://github.com/user-attachments/assets/295ce70f-e46f-4b95-9c8b-190a55b206fd"
+              caption="Thomas McKean by Charles Willson Peale, oil on canvas, c1787.  Public domain, via National Portrait Gallery, Smithsonian Institution."
+              attribution="CC0 / Public Domain">
+
+##
+<img width="751" height="934" alt="Twenty Nine" src="https://github.com/user-attachments/assets/295ce70f-e46f-4b95-9c8b-190a55b206fd" />
+
+## Thomas Heyward Jr. - Admitted: 1765 - Called: 1770
+While in London as a student at the Inn, Heyward experienced condescension and disdain towards American colonists. His fervent anti-British sentiment led to a resolute commitment to independence and his election to the Continental Congress in 1775. He served as a judge during the Revolutionary War and was taken prisoner at the Siege of Charleston by the British, who confiscated 130 of the people he had enslaved, leading to his proclamation as a ‘martyr’ by the press.
+<br><br>
+[Image from National Portrait Gallery, Smithsonian Institution](https://npg.si.edu/object/npg_NPG.89.232).
+<param ve-image 
+      url="https://github.com/user-attachments/assets/d1ae1dd0-21b4-4fa9-aab9-7c01121add0c"
+              caption="Thomas Heyward Jr. by Thomas Sully, oil on canvas, c1854.  Public domain, via National Portrait Gallery, Smithsonian Institution."
+              attribution="CC0 / Public Domain">
+
+##
+<img width="751" height="929" alt="Thirty" src="https://github.com/user-attachments/assets/d1ae1dd0-21b4-4fa9-aab9-7c01121add0c" />
+
+## Thomas Lynch Jr. - Admitted: 1767
+Following his time in London, Lynch returned to South Carolina, but gave up the law to manage his family plantation and enter politics. He served on the Provincial Congress and later the Continental Congress. Here he vehemently opposed movements to abolish slavery in the new United States, threatening the secession of South Carolina, a stance reflecting the determination of some elites to preserve slavery. He and his wife were lost at sea in 1779.
+<br><br>
+[Image from The New York Public Library Digital Collections.](https://digitalcollections.nypl.org/items/e4001600-c581-012f-8db4-58d385a7bc34)
