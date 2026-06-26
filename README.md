@@ -25,6 +25,11 @@ Commissioned by the American Bar Association in 1928 to celebrate their 50th ann
 The Round Church of the Knights Templar was an important site in the events and negotiations that led to Magna Carta. The Temple served as one of the London Headquarters of King John during the crisis of 1214-15, and it was here that he was confronted by the Barons and their demands at Epiphany 1215.
 <br><br>
 Magna Carta went on to underpin the US Constitution and the Bill of Rights in its emphasis on due process and the protection of individual rights.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/933ca6ad-c108-4891-9c8d-1b0b81179647"
+             attribution="Engraved by Sands, from a Drawing by J.P.Neale">
+##
+<img width="1237" height="1873" alt="Three" src="https://github.com/user-attachments/assets/933ca6ad-c108-4891-9c8d-1b0b81179647" />
 
 
 
