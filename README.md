@@ -119,12 +119,6 @@ He practiced law and wrote profusely on colonial rights and against the impositi
       url="https://github.com/user-attachments/assets/27394f74-0dcb-4535-8aa5-e1b361a549a7">
 <param ve-image 
       url="https://github.com/user-attachments/assets/d5f9197f-f98f-43a6-a824-028572223f89">
-      
-##
-<img width="2377" height="3555" alt="Thirteen A" src="https://github.com/user-attachments/assets/27394f74-0dcb-4535-8aa5-e1b361a549a7" />
-
-##
-<img width="2577" height="4000" alt="Thirteen B" src="https://github.com/user-attachments/assets/d5f9197f-f98f-43a6-a824-028572223f89" />
 
 ## John Dickinson on his legal studies 
 “I tread the walks frequented by the antient sages of the law; perhaps I study in the Chambers, where a Coke or Plowden has meditated: I am struck with Veneration… I almost seem to converse with them.”
@@ -140,10 +134,21 @@ Tableware such as this would have been a common sight in Hall during the eightee
 <param ve-image 
       url="https://github.com/user-attachments/assets/303200d5-554a-48e1-83d3-60f9c36b2427">
 
-##
-<img width="1414" height="2000" alt="Fifteen" src="https://github.com/user-attachments/assets/303200d5-554a-48e1-83d3-60f9c36b2427" />
-
 ## Middle Temple Hall, 1804
 This engraving shows the Hall as it would have looked in the mid-eighteenth century. The entrance tower exhibits the contemporary enthusiasm for classical styles, with a corniced belfry and a pedimented entrance flanked by obelisks.
 <param ve-image 
       url="https://github.com/user-attachments/assets/303200d5-554a-48e1-83d3-60f9c36b2427">
+
+## John Dickinson on Middle Temple Hall 
+“When I view the Hall, where the most important Questions have been debated, where a Hampden, and a Holt have opposed encroaching Power... in short upon whose Judgements, the Happiness of a Nation has depended, I am filled with Awe & Reverence.”
+<br><br>
+“I have enterd into Commons, that is, dining in Term time in the publick hall. We always have with us some of the… Benchers, and frequently some of the greatest lawyers.”
+<br><br>
+URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126
+
+## Edward Rutledge’s Surrender of Chambers at 6 Pump Court, 4 July 1772
+Many American students took chambers in the Inn. Edward Rutledge, who went on to be the youngest signatory to the Declaration of Independence, lived at 6 Pump Court during his time here. The building still stands, well-known for a sundial dating from 1686, which would have been familiar to Rutledge.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/92089ecc-c22a-4c1f-8d44-b12278c7aa9c">
+
+##
