@@ -39,6 +39,8 @@ He was appointed a judge in 1712 and in 1728 became Chief Justice of the Provinc
 <param ve-image 
       url="https://github.com/user-attachments/assets/fb77ea90-b8a0-484d-b5cf-71ac6d973ab8">
 
+<h2>Exploration & Empire</h2>
+
 ##
 <img width="650" height="142" alt="Five" src="https://github.com/user-attachments/assets/fb77ea90-b8a0-484d-b5cf-71ac6d973ab8" />
 
