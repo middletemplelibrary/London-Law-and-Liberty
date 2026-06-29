@@ -509,7 +509,16 @@ In 1973, Burger became the Honorary President of the Foundation for Overseas Lib
 
 ## The US Collection Today 
 Today, the US Collection constitutes one of the Library’s specialist subjects, jointly funded by the four Inns of Court. With the majority of US case law and legislation available immediately online, the Collection has expanded to provide comprehensive electronic coverage of federal and state case law, legislation and secondary resources, including the entirety of West’s National Reporter system, Restatements of the Law and the United States Code Annotated. The Library continues to develop its physical collection of US practitioner textbooks to aid those wishing to draw on persuasive US authorities or undertake comparative or international legal work.
-<param ve-compare curtain url="https://github.com/user-attachments/assets/39d65a55-a2bb-489f-ab3c-37b761c2a6ec" label="Bird's nest from above" description="photograph">
-<param ve-compare url="https://github.com/user-attachments/assets/52b7155c-53ee-447f-8c79-c984d960437c" label="Bird's nest from side" description="photograph">
+<param ve-compare curtain url="https://github.com/user-attachments/assets/25e09d6e-72e4-4feb-bcac-433146e839af" description="Library in 1958 ">
+<param ve-compare url="https://github.com/user-attachments/assets/79cd9ea9-78fd-483e-8a96-23e3b3ec9fbf" label="Bird's nest from side" description="Library in 2026">
+
+##
+<img width="1682" height="1720" alt="Fifty Seven A1" src="https://github.com/user-attachments/assets/25e09d6e-72e4-4feb-bcac-433146e839af" />
+
+
+##
+<img width="2733" height="2733" alt="Fifty Seven A2" src="https://github.com/user-attachments/assets/79cd9ea9-78fd-483e-8a96-23e3b3ec9fbf" />
+
+
 
 
