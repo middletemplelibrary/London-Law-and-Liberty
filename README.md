@@ -509,10 +509,7 @@ In 1973, Burger became the Honorary President of the Foundation for Overseas Lib
 
 ## The US Collection Today 
 Today, the US Collection constitutes one of the Library’s specialist subjects, jointly funded by the four Inns of Court. With the majority of US case law and legislation available immediately online, the Collection has expanded to provide comprehensive electronic coverage of federal and state case law, legislation and secondary resources, including the entirety of West’s National Reporter system, Restatements of the Law and the United States Code Annotated. The Library continues to develop its physical collection of US practitioner textbooks to aid those wishing to draw on persuasive US authorities or undertake comparative or international legal work.
-<param ve-image-compare
-       before= "https://github.com/user-attachments/assets/39d65a55-a2bb-489f-ab3c-37b761c2a6ec"
-       after= "https://github.com/user-attachments/assets/39d65a55-a2bb-489f-ab3c-37b761c2a6ec"
-       caption= "Westgate Towers, Canterbury"
-       beforeRegion= "ct:10,15,80,77"
-       afterRegion= "pct:18,0,55,100 aspect=1">
+<param ve-compare curtain url="https://github.com/user-attachments/assets/39d65a55-a2bb-489f-ab3c-37b761c2a6ec" label="Bird's nest from above" description="photograph">
+<param ve-compare url="https://github.com/user-attachments/assets/39d65a55-a2bb-489f-ab3c-37b761c2a6ec" label="Bird's nest from side" description="photograph">
+
 
