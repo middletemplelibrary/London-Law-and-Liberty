@@ -508,7 +508,11 @@ In 1973, Burger became the Honorary President of the Foundation for Overseas Lib
        caption= "Declaration of friendship signed by Warren Burger, 1988 (MT.14/ABA/6)">
 
 ## The US Collection Today 
-Today, the US Collection constitutes one of the Library’s specialist subjects, jointly funded by the four Inns of Court. With the majority of US case law and legislation available immediately online, the Collection has expanded to provide comprehensive electronic coverage of federal and state case law, legislation and secondary resources, including the entirety of West’s National Reporter system, Restatements of the Law and the United States Code Annotated. The Library continues to develop its physical collection of US practitioner textbooks to aid those wishing to draw on persuasive US authorities or undertake comparative or international legal work.
+Today, the US Collection constitutes one of the Library’s specialist subjects, jointly funded by the four Inns of Court. With the majority of US case law and legislation available immediately online, the Collection has expanded to provide comprehensive electronic coverage of federal and state case law, legislation and secondary resources, including the entirety of West’s National Reporter system, Restatements of the Law and the United States Code Annotated.
+ <br><br>
+ The Library continues to develop its physical collection of US practitioner textbooks to aid those wishing to draw on persuasive US authorities or undertake comparative or international legal work.
+  <br><br>
+Hover over the image to compare the third floor of the library in 1958 and 2026.
 <param ve-compare curtain url="https://github.com/user-attachments/assets/25e09d6e-72e4-4feb-bcac-433146e839af" description="Library in 1958 ">
 <param ve-compare url="https://github.com/user-attachments/assets/79cd9ea9-78fd-483e-8a96-23e3b3ec9fbf" label="Bird's nest from side" description="Library in 2026">
 
@@ -519,6 +523,56 @@ Today, the US Collection constitutes one of the Library’s specialist subjects,
 ##
 <img width="2733" height="2733" alt="Fifty Seven A2" src="https://github.com/user-attachments/assets/79cd9ea9-78fd-483e-8a96-23e3b3ec9fbf" />
 
+US legal material is housed on the third floor of the Library, along with the Rutledge Suite of advocacy rooms, formally opened by the US Ambassador Louis Susman in September 2011 during an Amity Visit from the American Inns of Court. Each room is lined with volumes of state and federal US law reports, and regularly used by the Inn for advocacy training, Call days, moots, Qualifying Sessions and scholarship interviews.
+<br><br>
+Since 2010, the Library has formally offered US legal research training to members, which has evolved into one of the Inn’s regular Qualifying Sessions provided to student members before they are Called to the Bar.
+<br><br>
+For more information about the US Collection, a library guide is available with information about resources and US legal research. To coincide with this exhibition, a number of books relating to US law and the Declaration of Independence can also be borrowed for a four-week loan. Please ask at the Enquiry Desk for further details.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca"
+       caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
+       attribution= "Zbigniew Kotkiewicz">
 
+##
+
+##
+
+
+<img width="2401" height="3600" alt="Fifty Seven B" src="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca" />
+
+<h1>21st Century Amity</h1>
+
+The Inn’s long-standing links with the United States endure today in many forms. We continue to mark important historical anniversaries, and the Library’s US Collection remains one of the largest collections of US law in Europe.
+<br><br>
+The Inn regularly welcomes visitors and delegations from the United States, and recently hosted an ABA conference in London marking 100 years since the 1924 visit. Middle Templars also often cross the Atlantic for Amity Visits, mooting competitions and more.
+<br><br>
+Master Mark Rylance’s comments in the programme notes for his 2006 performance at the quatercentenary of the Virginia Charter conclude: “Long live the friendship between America and the Middle Temple… may that friendship continue to be a force for liberty, justice and good government between all people.” We look forward to the next 250 years.
+
+## Middle Temple visits to the United States, 2011-2025
+Recent years have seen many official excursions by Middle Templars to the US, on Amity Visits, mooting trips and more. 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca"
+       caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
+       attribution= "Zbigniew Kotkiewicz">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca"
+       caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
+       attribution= "Zbigniew Kotkiewicz">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca"
+       caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
+       attribution= "Zbigniew Kotkiewicz">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca"
+       caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
+       attribution= "Zbigniew Kotkiewicz">
+
+##
+
+##
+
+##
+
+##
 
 
