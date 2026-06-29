@@ -433,5 +433,22 @@ One of the earliest records of the Inn purchasing American legal material for th
 ##
 <img width="2288" height="2995" alt="Fifty (Compressed)" src="https://github.com/user-attachments/assets/2598340e-a0ea-4254-b5f3-1034716536e4" />
 
+## The Laws of the Province of South-Carolina, in Two Parts, Volume I, 1736
+One of the volumes purchased from Charlotte Grafton in 1746, this text contains the charters of 1663 and 1665 issued by Charles II, granting the land of South Carolina to eight English noblemen who became known as the Lords Proprietors. Two of the Lords Proprietors were Middle Templars: Edward Hyde, 1st Earl of Clarendon and Sir William Berkeley. This volume also contains an Act of Parliament surrendering the Lords Proprietors’ interests back to the crown, following a rebellion against proprietary rule in 1719. South Carolina remained under royal rule officially until the ratification of the Declaration of Independence in 1776.
+<br><br>
+A number of Middle Templars who played a significant role in the revolutionary effort were born in Charleston, South Carolina, including John Laurens, of whom a posthumous portrait hangs on the stairway to the third floor of the Library where the US Collection is housed. 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/f56af96a-74ad-42c0-815d-ab1ed2ef5a22">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/1b204533-e07a-4830-89c9-b6df9d0eadba">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/1c6e481f-4ad5-45d5-9524-235fc869dec7">
+      
+##
+<img width="2463" height="3925" alt="Fifty One A" src="https://github.com/user-attachments/assets/f56af96a-74ad-42c0-815d-ab1ed2ef5a22" />
 
+##
+<img width="2436" height="3900" alt="Fifty One B" src="https://github.com/user-attachments/assets/1b204533-e07a-4830-89c9-b6df9d0eadba" />
 
+##
+<img width="2494" height="3911" alt="Fifty One C" src="https://github.com/user-attachments/assets/1c6e481f-4ad5-45d5-9524-235fc869dec7" />
