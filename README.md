@@ -507,20 +507,22 @@ In 1973, Burger became the Honorary President of the Foundation for Overseas Lib
       url="https://github.com/user-attachments/assets/39d65a55-a2bb-489f-ab3c-37b761c2a6ec"
        caption= "Declaration of friendship signed by Warren Burger, 1988 (MT.14/ABA/6)">
 
-##
-<img width="2529" height="3767" alt="Fifty Six A" src="https://github.com/user-attachments/assets/d9c7f2ca-4c9c-4702-94eb-954a6a159d61" />
+## The US Collection Today 
+Today, the US Collection constitutes one of the Library’s specialist subjects, jointly funded by the four Inns of Court. With the majority of US case law and legislation available immediately online, the Collection has expanded to provide comprehensive electronic coverage of federal and state case law, legislation and secondary resources, including the entirety of West’s National Reporter system, Restatements of the Law and the United States Code Annotated. The Library continues to develop its physical collection of US practitioner textbooks to aid those wishing to draw on persuasive US authorities or undertake comparative or international legal work.
+<div class="img-comp-container" id="imgCompContainer">
+  <div class="img-comp-img">
+    <img src="https://github.com/user-attachments/assets/e3019ba6-0c42-4eca-80b2-02478ce85f36" alt="Before">
+  </div>
+  <div class="img-comp-img img-comp-overlay">
+    <img src="https://github.com/user-attachments/assets/68b82fdf-7169-4e02-a245-ab0fdb062038" alt="After">
+  </div>
 
 ##
-<img width="2549" height="3834" alt="Fifty Six B" src="https://github.com/user-attachments/assets/0dbd2af9-26ce-43d8-b578-824a89091aab" />
+<img width="2733" height="2733" alt="Fifty Seven A2" src="https://github.com/user-attachments/assets/e3019ba6-0c42-4eca-80b2-02478ce85f36" />
+
 
 ##
-<img width="2477" height="3767" alt="Fifty Six C" src="https://github.com/user-attachments/assets/52b7155c-53ee-447f-8c79-c984d960437c" />
-
-##
-<img width="500" height="637" alt="Fifty Six D" src="https://github.com/user-attachments/assets/39d65a55-a2bb-489f-ab3c-37b761c2a6ec" />
-
-## 
-
+<img width="2733" height="2733" alt="Fifty Seven A2" src="https://github.com/user-attachments/assets/68b82fdf-7169-4e02-a245-ab0fdb062038" />
 
 
 
