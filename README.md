@@ -353,8 +353,11 @@ His writings on individual rights, philosophical architecture, and balanced appr
 
 ## Edmund Burke on the popularity of Blackstone
 “In no country perhaps in the world is the law so general a study… I have been told by an eminent bookseller that in no branch of his business, after tracts of popular devotion, were so many books as those on the law exported to the plantations. The colonists have now fallen into the way of printing them for their own use. I hear that they have sold nearly as many of Blackstone’s Commentaries in America as in England… This study renders men acute, inquisitive, prompt in attack, ready in defence, full of resources.”
-
+<br><br>
 URL: [https://archive.org/details/speechofedmundbu00burkiala/page/n39/mode/2up](https://archive.org/details/speechofedmundbu00burkiala/page/n39/mode/2up )
+<param ve-image 
+      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
+             attribution="Zbigniew Tomasz Kotkiewicz">
 
 <H1>After Independence</H1>
 While admissions to the Inn from the newly independent United States declined, there were some notable exceptions, including Thomas Morris Chester, the first African American to be Called to the Bar in London.
@@ -425,10 +428,9 @@ Image © Zbigniew Kotkiewicz.
 ## Bill for books purchased from Charlotte Grafton, 1746
 One of the earliest records of the Inn purchasing American legal material for the Library dates back to 1746 with a receipt for books purchased from Charlotte Grafton, a bookseller situated at the top of Middle Temple Lane in the building where Thresher & Glenny is now located. The Inn purchased volumes of laws passed in four of the thirteen British colonies: Massachusetts, New York, South Carolina and Virginia.
 <param ve-image 
-      url="https://github.com/user-attachments/assets/33e8cc8f-4528-4bd7-8bb1-bb0506970b01"
-              caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
-              attribution="Zbigniew Kotkiewicz">
+      url="https://github.com/user-attachments/files/29465103/Fifty.zip">
 
 ##
+[Fifty.zip](https://github.com/user-attachments/files/29465103/Fifty.zip)
 
 
