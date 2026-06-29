@@ -428,9 +428,10 @@ Image © Zbigniew Kotkiewicz.
 ## Bill for books purchased from Charlotte Grafton, 1746
 One of the earliest records of the Inn purchasing American legal material for the Library dates back to 1746 with a receipt for books purchased from Charlotte Grafton, a bookseller situated at the top of Middle Temple Lane in the building where Thresher & Glenny is now located. The Inn purchased volumes of laws passed in four of the thirteen British colonies: Massachusetts, New York, South Carolina and Virginia.
 <param ve-image 
-      url="https://github.com/user-attachments/files/29465103/Fifty.zip">
+      url="https://github.com/user-attachments/assets/2598340e-a0ea-4254-b5f3-1034716536e4">
 
 ##
-[Fifty.zip](https://github.com/user-attachments/files/29465103/Fifty.zip)
+<img width="2288" height="2995" alt="Fifty (Compressed)" src="https://github.com/user-attachments/assets/2598340e-a0ea-4254-b5f3-1034716536e4" />
+
 
 
