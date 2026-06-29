@@ -294,17 +294,11 @@ This painting of an imagined scene includes the five Middle Temple Signatories:
               caption="Photographic reproduction of a painting by John Trumbull, 1818. Numbered annotations have been added to identify the Middle Templars in this image."
               attribution="John Trumbull, Public domain, via Wikimedia Commons.">
 
-##
-<img width="1404" height="872" alt="Thirty Four" src="https://github.com/user-attachments/assets/15bbe80c-4e6f-4e5b-a803-f1f54691e0ec" />
-
 ## John Laurens (1754-1782)
 John Laurens was the son of a rice planter, trader in enslaved people and future Founding Father. He joined the Inn in 1772, but abandoned his studies and returned to join the revolution in 1777, serving as aide-de-camp to Washington with Hamilton and Lafayette. He fought at Charleston, Savannah and Yorktown and was killed in a skirmish with a British foraging party in 1782. He opposed slavery and promoted the emancipation of enslaved people in return for military service.
 <param ve-image 
       url="https://github.com/user-attachments/assets/b2756a71-54a2-4059-a379-04ebe4d2b751"
               caption="Posthumous portrait of John Laurens after a portrait by Charles Fraser, presented to the Middle Temple by Thomas Ashe Lockhart in 2004."
-
-##
-<img width="1517" height="1990" alt="Thirty Five" src="https://github.com/user-attachments/assets/b2756a71-54a2-4059-a379-04ebe4d2b751" />
 
 ## Banastre Tarleton (1754-1833)
 Banastre Tarleton joined the Inn in 1770, but was never Called to the Bar. Having burned through his inheritance, he became a cavalry officer at the age of twenty-one and sailed to North America to fight against the revolutionary forces. He gained a reputation for ruthlessness and brutality, in part due to the alleged massacre of surrendering revolutionary soldiers at the Battle of Waxhaws. In later life he served as MP for Liverpool, in which capacity he energetically opposed the movement for abolition.
@@ -313,18 +307,12 @@ Banastre Tarleton joined the Inn in 1770, but was never Called to the Bar. Havin
               caption="Photographic reproduction of a portrait of Sir Banastre Tarleton by Joshua Reynolds, 1782."
               attribution="Joshua Reynolds, Public domain, via Wikimedia Commons.">
 
-##
-<img width="950" height="1373" alt="Thirty Six" src="https://github.com/user-attachments/assets/7b792a50-b1cc-4a72-a150-32550900f4cb" />
-
 ## The Siege of Charleston
 By 1780 the British had shifted their focus to the south, and they laid siege to Charleston in late March. Governor John Rutledge managed to escape, but many other Middle Templars were among those involved in the defence of the city, including Arthur Middleton, Edward Rutledge, Thomas Heyward Jr and John Laurens, all of whom were taken prisoners when it fell to the victorious British, whose commanders included Banastre Tarleton.
 <param ve-image 
       url="https://github.com/user-attachments/assets/dcf6e57b-ea5c-4038-8f0b-1c92595f60a3"
               caption="A depiction of the Siege of Charleston (1780) by Alonzo Chappel, 1862. "
               attribution="A depiction of the Siege of Charleston (1780) by Alonzo Chappel, 1862.">
-
-##
-<img width="1051" height="778" alt="Thirty Seven" src="https://github.com/user-attachments/assets/dcf6e57b-ea5c-4038-8f0b-1c92595f60a3" />
 
 <h1>Constitution</h1>
 Following the 1783 Peace of Paris, the independent states were loosely and somewhat dysfunctionally governed according to the 1776 Articles of Confederation, until the Constitutional Convention of 1787. Over half of the delegates were lawyers, seven of whom were members of the Inn: John Rutledge, John Dickinson, Charles Pinckney III, Charles Cotesworth Pinckney, Jared Ingersoll, John Blair and William Livingston.
@@ -347,27 +335,11 @@ The amended draft was eventually adopted and thirty-nine delegates signed the ne
       url="https://github.com/user-attachments/assets/f9a32d82-810d-47d7-af83-ab1686cfaacf"
               caption="Constitution of the United States; 9/17/1787; The Constitution of the United States, 9/17/1787 – 9/17/1787; General Records of the United States Government, Record Group 11; National Archives Building,Washington, DC. [Online Version, https://docsteach.org/document/constitution/, June 8, 2026]">
 
-
-##
-<img width="2065" height="2500" alt="Thirty Eight A" src="https://github.com/user-attachments/assets/dd302852-0e48-4c0d-87b5-fc21a7c3c721" />
-
-##
-<img width="2058" height="2500" alt="Thirty Eight B" src="https://github.com/user-attachments/assets/03a6fbee-5ccd-47a5-96f5-8f6a5f7c540c" />
-
-##
-<img width="2066" height="2500" alt="Thirty Eight C" src="https://github.com/user-attachments/assets/847b7796-5b47-491d-9de0-0ea5833629f6" />
-
-##
-<img width="2062" height="2500" alt="Thirty Eight D" src="https://github.com/user-attachments/assets/f9a32d82-810d-47d7-af83-ab1686cfaacf" />
-
 ## Certificate of Call to the Bar of John Rutledge, 1760
 The eldest of the Rutledge siblings, John was Called to the Bar at the Inn in 1760. He became a successful lawyer, was present at the Continental Congress, and later served as Governor of South Carolina. He was a pivotal figure at the Constitutional Convention, helping to resolve inter-state conflicts, playing a key role in the drafting and successfully arguing against the outlawing of slavery, helping to embed it within the foundational legal framework of the United States.
 He was appointed by George Washington to the Supreme Court, and later nominated (although not approved) as the first Chief Justice of the United States.
 <param ve-image 
       url="https://github.com/user-attachments/assets/26975626-5937-47b5-acdd-68fc8d861df7">
-
-##
-<img width="2283" height="1865" alt="Thirty Nine" src="https://github.com/user-attachments/assets/26975626-5937-47b5-acdd-68fc8d861df7" />
 
 ## Commentaries on the Laws of England, Book the First, William Blackstone, 1766, 2nd edition
 William Blackstone, a Middle Templar, first published his four-volume treatise in the 1760s - the first work systematically to synthesise and describe the English Common Law since the middle ages. It was hugely popular on both sides of the Atlantic, and a foundational influence on the Framers of the American Constitution, their second most cited authority after the Bible.
@@ -378,15 +350,6 @@ His writings on individual rights, philosophical architecture, and balanced appr
       url="https://github.com/user-attachments/assets/d1788ca3-de58-4265-afa8-bb68516af6ce">
 <param ve-image 
       url="https://github.com/user-attachments/assets/c6960a55-6fa2-4ce5-98c8-36f0ae27f23e">
-
-##
-<img width="2785" height="3832" alt="Fourty A" src="https://github.com/user-attachments/assets/7d399e8e-7161-47f8-bc8c-a4904e8a8fb4" />
-
-##
-<img width="2761" height="3812" alt="Fourty B" src="https://github.com/user-attachments/assets/d1788ca3-de58-4265-afa8-bb68516af6ce" />
-
-##
-<img width="3000" height="4000" alt="Fourty C" src="https://github.com/user-attachments/assets/c6960a55-6fa2-4ce5-98c8-36f0ae27f23e" />
 
 ## Edmund Burke on the popularity of Blackstone
 “In no country perhaps in the world is the law so general a study… I have been told by an eminent bookseller that in no branch of his business, after tracts of popular devotion, were so many books as those on the law exported to the plantations. The colonists have now fallen into the way of printing them for their own use. I hear that they have sold nearly as many of Blackstone’s Commentaries in America as in England… This study renders men acute, inquisitive, prompt in attack, ready in defence, full of resources.”
@@ -403,9 +366,6 @@ The American Bar Association made its inaugural visit to London in 1924, a progr
       url="https://github.com/user-attachments/assets/8392c753-81e5-44fa-a5a7-2ac7b03d4362"
               caption="Portrait engraving of Joseph Choate (MT.19/POR/138).">
 
-##
-<img width="497" height="755" alt="Fourty Two" src="https://github.com/user-attachments/assets/8392c753-81e5-44fa-a5a7-2ac7b03d4362" />
-
 ## Thomas Morris Chester (1834-1892)
 Thomas Morris Chester was born in Pennsylvania, the son of Jane Morris, who had escaped from enslavement in Maryland.
 <br><br>
@@ -418,16 +378,10 @@ Image from [The New York Public Library.](https://digitalcollections.nypl.org/it
       url="https://github.com/user-attachments/assets/49b43c41-9c5d-40f9-b9cf-f375a8003afb"
               caption="Schomburg Center for Research in Black Culture, Photographs and Prints Division, The New York Public Library. "Chester, U.S. minister, Liberia." New York Public Library Digital Collections.">
 
-##
-<img width="958" height="1387" alt="Fourty Three" src="https://github.com/user-attachments/assets/49b43c41-9c5d-40f9-b9cf-f375a8003afb" />
-
 ## Ticket for dinner in Middle Temple Hall, ABA visit 1924
 As part of the ABA’s visit to London in 1924, the visiting lawyers were hosted by the four Inns for a dinner in Hall.
 <param ve-image 
       url="https://github.com/user-attachments/assets/a11d44bf-e773-4b46-8dcc-f242eba6c0ea">
-
-##
-<img width="1555" height="1245" alt="Fourty Four" src="https://github.com/user-attachments/assets/a11d44bf-e773-4b46-8dcc-f242eba6c0ea" />
 
 ## Badges from Trans-Atlantic visits, 1924 and 1930
 These badges commemorate the ABA London visit of 1924 and visit to the USA and Canada by a cohort of barristers and solicitors from London in 1930.
@@ -436,25 +390,17 @@ These badges commemorate the ABA London visit of 1924 and visit to the USA and C
 <param ve-image 
       url="https://github.com/user-attachments/assets/2844cde1-c286-4cc2-b15e-1cff7ba9c98f">
 
-##
-<img width="1414" height="2000" alt="Fourty Five A" src="https://github.com/user-attachments/assets/73e392c2-1c95-4c4a-8858-33b3cf4ddcab" />
-
-##
-<img width="1414" height="2000" alt="Fourty Five B" src="https://github.com/user-attachments/assets/2844cde1-c286-4cc2-b15e-1cff7ba9c98f" />
-
 ## Programme for the ABA 80th Annual Meeting, London, 1957
 The ABA’s 1957 visit featured an address by the Prime Minister, river trips, sherry parties, dinners in Hall and a match between ABA members and the Bar Lawn Tennis Society at Wimbledon.
 <param ve-image 
       url="https://github.com/user-attachments/assets/e0432edc-f808-4383-9d95-ec308e320431">
-
-##
-<img width="2232" height="3272" alt="Fourty Six" src="https://github.com/user-attachments/assets/e0432edc-f808-4383-9d95-ec308e320431" />
 
 ## Anne Armstrong greeted by Master Treasurer, 6 May 1976
 Born in New Orleans, Armstrong moved to Texas in 1950 and established herself in Republican politics. Named Counsellor to President Nixon in 1972, she made history as the first female US Ambassador to the UK, appointed in 1976. She was Called as an Honorary Bencher of the Middle Temple in the same year, and is pictured here with Master Treasurer George Baker.
 <param ve-image 
       url="https://github.com/user-attachments/assets/780f77ee-cb5d-4333-9c29-82001acee0ba"
        caption: "Photograph of Anne Armstrong greeted by Master Treasurer George Baker, 1976 (MT.19/PHO/3/13).">
+
 ##
 <img width="4716" height="5906" alt="Fourty Seven" src="https://github.com/user-attachments/assets/780f77ee-cb5d-4333-9c29-82001acee0ba" />
 
@@ -462,9 +408,6 @@ Born in New Orleans, Armstrong moved to Texas in 1950 and established herself in
 Following her Call as an Honorary Bencher, Anne Armstrong dined at the Inn in December 1976. Also present was Queen Elizabeth The Queen Mother, our Royal Bencher. In this letter to the Treasurer, she expresses her gratitude and highlights how much she had enjoyed the occasion.
 <param ve-image 
       url="https://github.com/user-attachments/assets/6799dc47-9fe1-4de5-b7c9-1236ad191ab5">
-
-##
-<img width="2884" height="3679" alt="Fourty Eight" src="https://github.com/user-attachments/assets/6799dc47-9fe1-4de5-b7c9-1236ad191ab5" />
 
 <h1>Early American Legal Works</h1>
 Middle Temple Library’s US Collection is one of the largest collections of US legal material outside of America, providing access to textbooks, reference materials and law reports, as well as online access to US law through HeinOnline, Lexis US, LLMC Digital and Westlaw US.
@@ -478,9 +421,6 @@ Image © Zbigniew Kotkiewicz.
       url="https://github.com/user-attachments/assets/33e8cc8f-4528-4bd7-8bb1-bb0506970b01"
               caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
               attribution="Zbigniew Kotkiewicz">
-
-##
-<img width="2880" height="3600" alt="Fourty Nine" src="https://github.com/user-attachments/assets/33e8cc8f-4528-4bd7-8bb1-bb0506970b01" />
 
 ## Bill for books purchased from Charlotte Grafton, 1746
 One of the earliest records of the Inn purchasing American legal material for the Library dates back to 1746 with a receipt for books purchased from Charlotte Grafton, a bookseller situated at the top of Middle Temple Lane in the building where Thresher & Glenny is now located. The Inn purchased volumes of laws passed in four of the thirteen British colonies: Massachusetts, New York, South Carolina and Virginia.
