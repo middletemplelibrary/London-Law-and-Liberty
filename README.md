@@ -404,9 +404,6 @@ Born in New Orleans, Armstrong moved to Texas in 1950 and established herself in
       url="https://github.com/user-attachments/assets/780f77ee-cb5d-4333-9c29-82001acee0ba"
        caption: "Photograph of Anne Armstrong greeted by Master Treasurer George Baker, 1976 (MT.19/PHO/3/13).">
 
-##
-<img width="4716" height="5906" alt="Fourty Seven" src="https://github.com/user-attachments/assets/780f77ee-cb5d-4333-9c29-82001acee0ba" />
-
 ## Letter from Anne Armstrong following a dinner, 15 December 1976
 Following her Call as an Honorary Bencher, Anne Armstrong dined at the Inn in December 1976. Also present was Queen Elizabeth The Queen Mother, our Royal Bencher. In this letter to the Treasurer, she expresses her gratitude and highlights how much she had enjoyed the occasion.
 <param ve-image 
@@ -430,9 +427,6 @@ One of the earliest records of the Inn purchasing American legal material for th
 <param ve-image 
       url="https://github.com/user-attachments/assets/2598340e-a0ea-4254-b5f3-1034716536e4">
 
-##
-<img width="2288" height="2995" alt="Fifty (Compressed)" src="https://github.com/user-attachments/assets/2598340e-a0ea-4254-b5f3-1034716536e4" />
-
 ## The Laws of the Province of South-Carolina, in Two Parts, Volume I, 1736
 One of the volumes purchased from Charlotte Grafton in 1746, this text contains the charters of 1663 and 1665 issued by Charles II, granting the land of South Carolina to eight English noblemen who became known as the Lords Proprietors. Two of the Lords Proprietors were Middle Templars: Edward Hyde, 1st Earl of Clarendon and Sir William Berkeley. This volume also contains an Act of Parliament surrendering the Lords Proprietors’ interests back to the crown, following a rebellion against proprietary rule in 1719. South Carolina remained under royal rule officially until the ratification of the Declaration of Independence in 1776.
 <br><br>
@@ -443,15 +437,6 @@ A number of Middle Templars who played a significant role in the revolutionary e
       url="https://github.com/user-attachments/assets/1b204533-e07a-4830-89c9-b6df9d0eadba">
 <param ve-image 
       url="https://github.com/user-attachments/assets/1c6e481f-4ad5-45d5-9524-235fc869dec7">
-      
-##
-<img width="2463" height="3925" alt="Fifty One A" src="https://github.com/user-attachments/assets/f56af96a-74ad-42c0-815d-ab1ed2ef5a22" />
-
-##
-<img width="2436" height="3900" alt="Fifty One B" src="https://github.com/user-attachments/assets/1b204533-e07a-4830-89c9-b6df9d0eadba" />
-
-##
-<img width="2494" height="3911" alt="Fifty One C" src="https://github.com/user-attachments/assets/1c6e481f-4ad5-45d5-9524-235fc869dec7" />
 
 ## Reports of cases adjudged in the Superior Court of the state of Connecticut. From the year 1785, to May 1788; with some determinations in the Supreme Court of Errors, Ephraim Kirby, 1789
 Over the years, the Library has acquired an extensive collection of US law reports, including the very first published, reported by Ephraim Kirby in 1789. At this time, American state courts were mostly dependent on English common law precedents, though a deviation from English laws had rendered these no longer “fully applicable” to the courts of Connecticut. With no provision for the publication of court decisions, lawyers would rely on personal notes, often circulated privately with friends, and the principles of decisions “were soon forgot, or misunderstood, or erroneously reported from memory”. 
@@ -464,24 +449,12 @@ Despite the “considerable expense” of his undertaking, Kirby hoped that by p
 <param ve-image 
       url="https://github.com/user-attachments/assets/e3e394c5-2aa9-422d-9690-670f1b749e61">
 
-##
-<img width="2498" height="3765" alt="Fifty Two A" src="https://github.com/user-attachments/assets/344c5bce-3d84-4912-b87c-fb3be4e62170" />
-
-##
-<img width="2316" height="3777" alt="Fifty Two B" src="https://github.com/user-attachments/assets/62362446-14eb-4644-9ce4-8d1befaf29e1" />
-
-##
-<img width="2461" height="3873" alt="Fifty Two C" src="https://github.com/user-attachments/assets/e3e394c5-2aa9-422d-9690-670f1b749e61" />
-
 <h1>The American Library</h1>
 By the 1920s, a growing need for American legal decisions at the Bar prompted the Middle Temple Librarian, H.A.C. Sturgess, to begin acquiring a full set of American Reports for the Library. Many American lawyers were keen to support the project, and it is thanks to their generous contributions that the Library holds such an extensive collection of US law reports, forming the foundation of the US Collection today.
 <param ve-image 
       url="https://github.com/user-attachments/assets/2bdfb04c-2f7b-43a1-9eee-39bbd4a9ed05"
               caption= "West's Federal Rules Decisions, Third Floor of the Library."
               attribution="Photo taken by Harpreet Dhillon, Deputy Librarian.">
-
-##
-<img width="2710" height="2710" alt="Fifty Three" src="https://github.com/user-attachments/assets/2bdfb04c-2f7b-43a1-9eee-39bbd4a9ed05" />
 
 ## Reports of the Court of Appeals of Virginia, Volume I, Bushrod Washington, 1823, 2nd edition
 In 1927, the Library received a gift of 147 volumes of reports from the State of Virginia. This volume comprises cases from 1790 to 1794, recording how the courts handled legal issues of the time, including matters involving the rights of enslaved people and Indigenous peoples. In Coleman v Dick & Pat. (1793), the court considered the legal distinction – created and enforced by a colonial legal system - between ‘American Indians’ and ‘Foreign Indians’ in determining who could be held in enslavement. The abolition of American Chattel Slavery was not ratified in the US Constitution until 1865, almost a century after the Declaration of Independence. 
@@ -491,15 +464,6 @@ In 1927, the Library received a gift of 147 volumes of reports from the State of
       url="https://github.com/user-attachments/assets/edcad03f-5af0-4460-807c-25910a635d81">
 <param ve-image 
       url="https://github.com/user-attachments/assets/db539568-d819-457d-a032-7150057b66cf">
-
-##
-<img width="2231" height="3842" alt="Fifty Four A" src="https://github.com/user-attachments/assets/aeb4b9fd-c1be-4c4a-b490-ae1728b8ae0a" />
-
-##
-<img width="2620" height="3636" alt="Fifty Four B" src="https://github.com/user-attachments/assets/edcad03f-5af0-4460-807c-25910a635d81" />
-
-##
-<img width="3875" height="2978" alt="Fifty Four C" src="https://github.com/user-attachments/assets/db539568-d819-457d-a032-7150057b66cf" />
 
 ## Contributions from American Lawyers
 One especially prolific donor to the Library was Barnett Hollander, an American lawyer based in 3 Paper Buildings, who encouraged others in the American legal community to contribute to Sturgess’ project:
@@ -521,20 +485,41 @@ A succession of gifts followed throughout the 1920s and 1930s, including a first
        caption= "1929 Deed of Gift from the Carnegie Endowment for International Peace, Third Floor of the Library."
        attribution= "Photo taken by Harpreet Dhillon, Deputy Librarian.">
 
-              
-##
-<img width="2330" height="3300" alt="Fifty Five A" src="https://github.com/user-attachments/assets/e3253f33-e9d5-45db-bc92-f748ad9e8928" />
-
-##
-<img width="2330" height="3300" alt="Fifty Five B" src="https://github.com/user-attachments/assets/0250c2b4-776a-41b7-a704-b2e4773e4888" />
-
-##
-<img width="2325" height="3093" alt="Fifty Five C" src="https://github.com/user-attachments/assets/a70a65f0-78cd-48ca-a708-5497777be191" />
-
-##
-<img width="2495" height="2517" alt="Fifty Five D" src="https://github.com/user-attachments/assets/9ca57206-3182-4c0d-add1-37c8033c44e1" />
-
 ## Significant Supreme Court Opinions of the Honorable Warren E. Burger, 1984
+Donations to the US Collection continued after the Second World War, including gifts of 550 volumes from the US Government in 1954 and a volume of Supreme Court opinions from Chief Justice Warren E. Burger, inscribed with the message:
+<br><br>
+“To the Middle Temple Library from Warren E Burger
+ P.S. American doctors recommend five minutes reading before bedtime as a sure cure for insomnia.”
+ <br><br>
+Burger was Called as an Honorary Bencher of the Inn in 1971 and played an instrumental role in the establishment of the American Inns of Court. In 1988 he signed a 'Declaration to commemorate and celebrate the perpetual friendship and brotherhood' between the London and American Inns, and even wore his Middle Temple cufflinks when he sat for his official portrait in 1976.
+<br><br>
+In 1973, Burger became the Honorary President of the Foundation for Overseas Libraries of American Law, an initiative which ran from 1969 to 1982 to support the libraries at Middle Temple and the Institute of Advanced Legal Studies with the hopes that it would permit English lawyers and judges to cite American precedents more freely in English courts.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/d9c7f2ca-4c9c-4702-94eb-954a6a159d61"
+       caption= "Significant Supreme Court Opinions of the Honorable Warren E. Burger, 1984">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/0dbd2af9-26ce-43d8-b578-824a89091aab"
+       caption= "Significant Supreme Court Opinions of the Honorable Warren E. Burger, 1984">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/52b7155c-53ee-447f-8c79-c984d960437c"
+       caption= "Significant Supreme Court Opinions of the Honorable Warren E. Burger, 1984">
+<param ve-image 
+      url="https://github.com/user-attachments/assets/39d65a55-a2bb-489f-ab3c-37b761c2a6ec"
+       caption= "Declaration of friendship signed by Warren Burger, 1988 (MT.14/ABA/6)">
+
+##
+<img width="2529" height="3767" alt="Fifty Six A" src="https://github.com/user-attachments/assets/d9c7f2ca-4c9c-4702-94eb-954a6a159d61" />
+
+##
+<img width="2549" height="3834" alt="Fifty Six B" src="https://github.com/user-attachments/assets/0dbd2af9-26ce-43d8-b578-824a89091aab" />
+
+##
+<img width="2477" height="3767" alt="Fifty Six C" src="https://github.com/user-attachments/assets/52b7155c-53ee-447f-8c79-c984d960437c" />
+
+##
+<img width="500" height="637" alt="Fifty Six D" src="https://github.com/user-attachments/assets/39d65a55-a2bb-489f-ab3c-37b761c2a6ec" />
+
+## 
 
 
 
