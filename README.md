@@ -323,9 +323,6 @@ John Laurens was the son of a rice planter, trader in enslaved people and future
       url="https://github.com/user-attachments/assets/d260c1a3-acc7-4673-a589-187eacf02a21"
               caption="Posthumous portrait of John Laurens after a portrait by Charles Fraser, presented to the Middle Temple by Thomas Ashe Lockhart in 2004.">
 
-##
-
-
 ## Banastre Tarleton (1754-1833)
 Banastre Tarleton joined the Inn in 1770, but was never Called to the Bar. Having burned through his inheritance, he became a cavalry officer at the age of twenty-one and sailed to North America to fight against the revolutionary forces. He gained a reputation for ruthlessness and brutality, in part due to the alleged massacre of surrendering revolutionary soldiers at the Battle of Waxhaws. In later life he served as MP for Liverpool, in which capacity he energetically opposed the movement for abolition.
 <param ve-image 
@@ -385,10 +382,6 @@ URL: [https://archive.org/details/speechofedmundbu00burkiala/page/n39/mode/2up](
       url="https://github.com/user-attachments/assets/93c8001c-89d2-4618-a0a0-0ece95cfecc0"
              attribution="Joshua Reynolds, Public domain, via Wikimedia Commons"
               caption="Edmund Burke">
-
-##
-<img width="765" height="944" alt="Edmund Burke" src="https://github.com/user-attachments/assets/93c8001c-89d2-4618-a0a0-0ece95cfecc0" />
-
 
 <H1>After Independence</H1>
 While admissions to the Inn from the newly independent United States declined, there were some notable exceptions, including Thomas Morris Chester, the first African American to be Called to the Bar in London.
