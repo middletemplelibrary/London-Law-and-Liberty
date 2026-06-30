@@ -131,11 +131,7 @@ He practiced law and wrote profusely on colonial rights and against the impositi
 <param ve-image 
       url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
              attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
-              caption=John Dickinson>
-
-##
-<img width="960" height="1287" alt="JohnDickinson" src="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1" />
-
+              caption="John Dickinson">
 
 ## Silver cauldron salt, 1756, and two silver pepper casters, 1751 and 1762
 Tableware such as this would have been a common sight in Hall during the eighteenth century. The salt was made by David Hennell of Gutter Lane and purchased in 1757. The pepper casters were made by Samuel Wood of Foster Lane and given in 1991 by Mark Emsley lee.
@@ -156,7 +152,7 @@ This engraving shows the Hall as it would have looked in the mid-eighteenth cent
 <param ve-image 
       url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
              attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
-              caption=John Dickinson>
+              caption="John Dickinson">
 
 ## Edward Rutledge’s Surrender of Chambers at 6 Pump Court, 4 July 1772
 Many American students took chambers in the Inn. Edward Rutledge, who went on to be the youngest signatory to the Declaration of Independence, lived at 6 Pump Court during his time here. The building still stands, well-known for a sundial dating from 1686, which would have been familiar to Rutledge.
@@ -174,7 +170,7 @@ We then follow our studies till three or four o’clock, then we dine... we step
 <param ve-image 
       url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
              attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
-              caption=John Dickinson>
+              caption="John Dickinson">
 
 ## ‘Law is a Bottomless Pit’, c1745 © The Trustees of the British Museum
 Students at the Middle Temple would often attend the courts in Westminster Hall, just a short walk or boat ride along the river, to observe the law in action first hand.
@@ -194,7 +190,7 @@ This satirical print shows the Court of King’s Bench in Westminster Hall. In t
 <param ve-image 
       url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
              attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
-              caption=John Dickinson>
+              caption="John Dickinson">
 
 ## Playing Cards
 In moments of leisure between time spent studying legal tomes and attending court, students would have engaged in quiet pastimes such as playing cards. This deck is a reproduction of one from around 1750.
@@ -221,10 +217,10 @@ Coffee houses were key centres for conversation, debate and the exchange of info
 <param ve-image 
       url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
              attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
-              caption=John Dickinson>
+              caption="John Dickinson">
 
 <h1>Revolution</h1>
-British taxation of its American colonies in the 1760s led[BB7.1] to a war of words in which members of the Inn played a key role. John Dickinson wrote his influential Letters from a Farmer in Pennsylvania in response to the Townshend Acts of 1767, and in London the Middle Templar MPs Edmund Burke and John Dunning were among those advocating for the colonists and their grievances.
+British taxation of its American colonies in the 1760s led to a war of words in which members of the Inn played a key role. John Dickinson wrote his influential Letters from a Farmer in Pennsylvania in response to the Townshend Acts of 1767, and in London the Middle Templar MPs Edmund Burke and John Dunning were among those advocating for the colonists and their grievances.
 <br><br>
 Spurred by the ‘Intolerable Acts’ of 1774, the First Continental Congress convened, led by a Middle Templar, Peyton Randolph, and submitted a petition to the King (drafted by Dickinson). Its rejection led to the outbreak of war the following spring, and a Second Continental Congress convened in May 1775.
 <br><br>
@@ -291,13 +287,12 @@ Anthony Stokes was an Inner Templar who was appointed Chief Justice of Georgia i
 
 ## Declaration of Independence, John Trumbull, 1818
 This painting of an imagined scene includes the five Middle Temple Signatories:
-<ul>
-  <li>Lynch</li>
-  <li>Middleton</li>
-  <li>Heyward</li>
-  <li>Rutledge</li>
-  <li>McKean</li>
-</ul>
+
+1: Lynch
+2: Middleton
+3: Heyward
+4: Rutledge
+5: McKean
 <param ve-image 
       url="https://github.com/user-attachments/assets/15bbe80c-4e6f-4e5b-a803-f1f54691e0ec"
               caption="Photographic reproduction of a painting by John Trumbull, 1818. Numbered annotations have been added to identify the Middle Templars in this image."
@@ -306,8 +301,12 @@ This painting of an imagined scene includes the five Middle Temple Signatories:
 ## John Laurens (1754-1782)
 John Laurens was the son of a rice planter, trader in enslaved people and future Founding Father. He joined the Inn in 1772, but abandoned his studies and returned to join the revolution in 1777, serving as aide-de-camp to Washington with Hamilton and Lafayette. He fought at Charleston, Savannah and Yorktown and was killed in a skirmish with a British foraging party in 1782. He opposed slavery and promoted the emancipation of enslaved people in return for military service.
 <param ve-image 
-      url="https://github.com/user-attachments/assets/b2756a71-54a2-4059-a379-04ebe4d2b751"
+      url="https://github.com/user-attachments/assets/d260c1a3-acc7-4673-a589-187eacf02a21"
               caption="Posthumous portrait of John Laurens after a portrait by Charles Fraser, presented to the Middle Temple by Thomas Ashe Lockhart in 2004."
+
+##
+<img width="1517" height="1990" alt="Thirty Five" src="https://github.com/user-attachments/assets/d260c1a3-acc7-4673-a589-187eacf02a21" />
+
 
 ## Banastre Tarleton (1754-1833)
 Banastre Tarleton joined the Inn in 1770, but was never Called to the Bar. Having burned through his inheritance, he became a cavalry officer at the age of twenty-one and sailed to North America to fight against the revolutionary forces. He gained a reputation for ruthlessness and brutality, in part due to the alleged massacre of surrendering revolutionary soldiers at the Battle of Waxhaws. In later life he served as MP for Liverpool, in which capacity he energetically opposed the movement for abolition.
@@ -365,8 +364,13 @@ His writings on individual rights, philosophical architecture, and balanced appr
 <br><br>
 URL: [https://archive.org/details/speechofedmundbu00burkiala/page/n39/mode/2up](https://archive.org/details/speechofedmundbu00burkiala/page/n39/mode/2up )
 <param ve-image 
-      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
-             attribution="Zbigniew Tomasz Kotkiewicz">
+      url="https://github.com/user-attachments/assets/93c8001c-89d2-4618-a0a0-0ece95cfecc0"
+             attribution="Joshua Reynolds, Public domain, via Wikimedia Commons"
+              caption="Edmund Burke">
+
+##
+<img width="765" height="944" alt="Edmund Burke" src="https://github.com/user-attachments/assets/93c8001c-89d2-4618-a0a0-0ece95cfecc0" />
+
 
 <H1>After Independence</H1>
 While admissions to the Inn from the newly independent United States declined, there were some notable exceptions, including Thomas Morris Chester, the first African American to be Called to the Bar in London.
