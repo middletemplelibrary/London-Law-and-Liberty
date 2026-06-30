@@ -287,7 +287,7 @@ Anthony Stokes was an Inner Templar who was appointed Chief Justice of Georgia i
 
 ## Declaration of Independence, John Trumbull, 1818
 This painting of an imagined scene includes the five Middle Temple Signatories:
-
+<br><br>
 1: Lynch
 2: Middleton
 3: Heyward
