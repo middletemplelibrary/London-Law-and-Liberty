@@ -533,13 +533,6 @@ For more information about the US Collection, a library guide is available with 
        caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
        attribution= "Zbigniew Kotkiewicz">
 
-##
-
-##
-
-
-<img width="2401" height="3600" alt="Fifty Seven B" src="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca" />
-
 <h1>21st Century Amity</h1>
 
 The Inn’s long-standing links with the United States endure today in many forms. We continue to mark important historical anniversaries, and the Library’s US Collection remains one of the largest collections of US law in Europe.
@@ -551,28 +544,73 @@ Master Mark Rylance’s comments in the programme notes for his 2006 performance
 ## Middle Temple visits to the United States, 2011-2025
 Recent years have seen many official excursions by Middle Templars to the US, on Amity Visits, mooting trips and more. 
 <param ve-image 
-      url="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca"
-       caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
-       attribution= "Zbigniew Kotkiewicz">
+      url="https://github.com/user-attachments/assets/53a7e6f8-464b-4de2-bd3e-a1f55163faf5"
+       caption= "Amity Visit to Washington, 2011: Master Treasurer Dawn Oliver, Master Robert Seabrook and other guests at US Court of Appeals for the Federal Circuit."
+       attribution= "Photo taken by Christa Richmond, Director of Education.">
 <param ve-image 
-      url="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca"
-       caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
-       attribution= "Zbigniew Kotkiewicz">
+      url="https://github.com/user-attachments/assets/51f9f414-6137-4edc-a465-046272409b12"
+       caption= "Mooting trip to Pepperdine Caruso School of Law, Malibu, 2022: Moot Judge Master Matthew Weait (back centre) and students Afiya Amesu and Matthew Kingswell (front left) and Ellen Dean and James Sinclair (front right)."
+       attribution= "Photo taken by Christa Richmond, Director of Education.">
 <param ve-image 
-      url="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca"
-       caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
-       attribution= "Zbigniew Kotkiewicz">
+      url="https://github.com/user-attachments/assets/02ad200c-6241-49fb-8f25-0e757ffd98d0"
+       caption= "Visit to the University of North Carolina at Chapel Hill, 2025: Masters Hussey, Myers and Broun (centre) with students Edward O’Connor, Daniel Pluck, Samuel Street and Michael Freeman (left) at Wilmington Courthouse."
+       attribution= "Photo taken by Christa Richmond, Director of Education.">
 <param ve-image 
-      url="https://github.com/user-attachments/assets/b36c6f37-e3b4-4d2c-9784-d608cad486ca"
-       caption= "Photograph of the US Collection in 2025 © Zbigniew Kotkiewicz."
-       attribution= "Zbigniew Kotkiewicz">
+      url="https://github.com/user-attachments/assets/9a5ea7f4-b499-4dfd-86d5-79ab620e271b"
+       caption= "Mooting trip to the Supreme Court of North Carolina, Raleigh, 2023: Master Treasurer David Lloyd Jones (back right) and students Andrew Eve and Farhana Iqbal (front right)."
+       attribution= "Photo taken by Christa Richmond, Director of Education.">
 
 ##
 
-##
+
+<img width="2762" height="1982" alt="Fifty Nine A (1)" src="https://github.com/user-attachments/assets/53a7e6f8-464b-4de2-bd3e-a1f55163faf5" />
 
 ##
+<img width="1758" height="1264" alt="Fifty Nine B" src="https://github.com/user-attachments/assets/51f9f414-6137-4edc-a465-046272409b12" />
 
 ##
+<img width="1758" height="1260" alt="Fifty Nine C" src="https://github.com/user-attachments/assets/02ad200c-6241-49fb-8f25-0e757ffd98d0" />
 
+##
+<img width="1952" height="1391" alt="Fifty Nine D" src="https://github.com/user-attachments/assets/9a5ea7f4-b499-4dfd-86d5-79ab620e271b" />
+
+## Guide, ABA International Law Section Conference, 2024 Fall
+The centenary of the 1924 ABA visit was marked by a return trip to London in 2024. Hosted by Middle Temple and Inner Temple, the programme featured lectures, panels, social events and a service of Choral Evensong in Temple Church.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/3b04069a-de13-45a0-99dd-113b8eddbb22">
+
+##
+<img width="2456" height="3497" alt="Sixty" src="https://github.com/user-attachments/assets/3b04069a-de13-45a0-99dd-113b8eddbb22" />
+
+## Cybersecurity Law, 2nd Edition, Jeff Kosseff, 2020
+The Library continues to collect US practitioner textbooks and treatises on the third floor. Many new titles focus on evolving areas such as AI, cyber security, FinTech, and environmental law. 
+<param ve-image 
+      url="https://github.com/user-attachments/assets/94d5efcc-c646-4709-aaa7-ddf7c16302f0">
+      
+##
+<img width="2538" height="3711" alt="Sixty One" src="https://github.com/user-attachments/assets/94d5efcc-c646-4709-aaa7-ddf7c16302f0" />
+
+## Programme and script for An Utopian Entertainment to celebrate the 400th anniversary of the first Jamestown Charter, 2006
+The anniversary of the first Virginia Charter in 1606 was marked by a performance in Hall by Phoebus Cart Theatre Company, led by Master Mark Rylance. The entertainment included dramatic interludes, as well as a masque, The Marriage of Pocahontas, which drew on sources such as The Memorable Masque of 1613.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/39018606-3751-48d8-bf9f-e8a81cfc617d">
+
+##
+<img width="2627" height="3600" alt="Sixty Two" src="https://github.com/user-attachments/assets/39018606-3751-48d8-bf9f-e8a81cfc617d" />
+
+## Soil from Jamestown
+In recognition of the Inn’s participation in the celebrations of the Virginia Company’s quatercentenary, in 2006 this jar of soil from Jamestown Island was presented to the Inn’s Archivist by Curt and Mary Reinhardt of Virginia.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/8462a834-91f5-4c54-a136-11dc4ed5e0d5">
+
+##
+<img width="1414" height="2000" alt="Sixty Three" src="https://github.com/user-attachments/assets/8462a834-91f5-4c54-a136-11dc4ed5e0d5" />
+
+## Judge Robert L. Wilkins delivers his Treasurer’s Lecture
+In June 2025, Judge Robert L Wilkins, a United States Circuit Judge of the United States Court of Appeals for the District of Columbia Circuit was invited to deliver a Treasurer’s Lecture at the Inn. A descendant of enslaved people, he spoke on ’My family’s journey from slavery to Citizen’. Judge Wilkins was made an Honorary Bencher of the Inn the day before his lecture.
+<param ve-image 
+      url="https://github.com/user-attachments/assets/f83259a0-7479-4218-93e2-2f83860c847c">
+
+##
+<img width="1234" height="954" alt="Sixty Four" src="https://github.com/user-attachments/assets/f83259a0-7479-4218-93e2-2f83860c847c" />
 
