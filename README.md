@@ -129,8 +129,13 @@ He practiced law and wrote profusely on colonial rights and against the impositi
 <br><br>
 [URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107)
 <param ve-image 
-      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
-             attribution="Zbigniew Tomasz Kotkiewicz">
+      url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
+             attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
+              caption=John Dickinson>
+
+##
+<img width="960" height="1287" alt="JohnDickinson" src="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1" />
+
 
 ## Silver cauldron salt, 1756, and two silver pepper casters, 1751 and 1762
 Tableware such as this would have been a common sight in Hall during the eighteenth century. The salt was made by David Hennell of Gutter Lane and purchased in 1757. The pepper casters were made by Samuel Wood of Foster Lane and given in 1991 by Mark Emsley lee.
@@ -149,8 +154,9 @@ This engraving shows the Hall as it would have looked in the mid-eighteenth cent
 <br><br>
 [URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126)
 <param ve-image 
-      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
-             attribution="Zbigniew Tomasz Kotkiewicz">
+      url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
+             attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
+              caption=John Dickinson>
 
 ## Edward Rutledge’s Surrender of Chambers at 6 Pump Court, 4 July 1772
 Many American students took chambers in the Inn. Edward Rutledge, who went on to be the youngest signatory to the Declaration of Independence, lived at 6 Pump Court during his time here. The building still stands, well-known for a sundial dating from 1686, which would have been familiar to Rutledge.
@@ -166,8 +172,9 @@ We then follow our studies till three or four o’clock, then we dine... we step
 <br><br>
 [URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=95](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=95)
 <param ve-image 
-      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
-             attribution="Zbigniew Tomasz Kotkiewicz">
+      url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
+             attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
+              caption=John Dickinson>
 
 ## ‘Law is a Bottomless Pit’, c1745 © The Trustees of the British Museum
 Students at the Middle Temple would often attend the courts in Westminster Hall, just a short walk or boat ride along the river, to observe the law in action first hand.
@@ -185,8 +192,9 @@ This satirical print shows the Court of King’s Bench in Westminster Hall. In t
 <br><br>
 [URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=118](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=118)
 <param ve-image 
-      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
-             attribution="Zbigniew Tomasz Kotkiewicz">
+      url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
+             attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
+              caption=John Dickinson>
 
 ## Playing Cards
 In moments of leisure between time spent studying legal tomes and attending court, students would have engaged in quiet pastimes such as playing cards. This deck is a reproduction of one from around 1750.
@@ -211,8 +219,9 @@ Coffee houses were key centres for conversation, debate and the exchange of info
 <br><br>
 [URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=98](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=98)
 <param ve-image 
-      url="https://github.com/user-attachments/assets/c3c6128d-9271-4c03-b904-ff3e0d864f81"
-             attribution="Zbigniew Tomasz Kotkiewicz">
+      url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
+             attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
+              caption=John Dickinson>
 
 <h1>Revolution</h1>
 British taxation of its American colonies in the 1760s led[BB7.1] to a war of words in which members of the Inn played a key role. John Dickinson wrote his influential Letters from a Farmer in Pennsylvania in response to the Townshend Acts of 1767, and in London the Middle Templar MPs Edmund Burke and John Dunning were among those advocating for the colonists and their grievances.
