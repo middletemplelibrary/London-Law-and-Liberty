@@ -287,11 +287,30 @@ Anthony Stokes was an Inner Templar who was appointed Chief Justice of Georgia i
 
 ## Declaration of Independence, John Trumbull, 1818
 This painting of an imagined scene includes the five Middle Temple Signatories:
-<br><br>
+<param ve-image 
+      url="https://github.com/user-attachments/assets/15bbe80c-4e6f-4e5b-a803-f1f54691e0ec"
+              caption="Photographic reproduction of a painting by John Trumbull, 1818. Numbered annotations have been added to identify the Middle Templars in this image."
+              attribution="John Trumbull, Public domain, via Wikimedia Commons.">
 1: Lynch
+<param ve-image 
+      url="https://github.com/user-attachments/assets/15bbe80c-4e6f-4e5b-a803-f1f54691e0ec"
+              caption="Photographic reproduction of a painting by John Trumbull, 1818. Numbered annotations have been added to identify the Middle Templars in this image."
+              attribution="John Trumbull, Public domain, via Wikimedia Commons.">
 2: Middleton
+<param ve-image 
+      url="https://github.com/user-attachments/assets/15bbe80c-4e6f-4e5b-a803-f1f54691e0ec"
+              caption="Photographic reproduction of a painting by John Trumbull, 1818. Numbered annotations have been added to identify the Middle Templars in this image."
+              attribution="John Trumbull, Public domain, via Wikimedia Commons.">
 3: Heyward
+<param ve-image 
+      url="https://github.com/user-attachments/assets/15bbe80c-4e6f-4e5b-a803-f1f54691e0ec"
+              caption="Photographic reproduction of a painting by John Trumbull, 1818. Numbered annotations have been added to identify the Middle Templars in this image."
+              attribution="John Trumbull, Public domain, via Wikimedia Commons.">
 4: Rutledge
+<param ve-image 
+      url="https://github.com/user-attachments/assets/15bbe80c-4e6f-4e5b-a803-f1f54691e0ec"
+              caption="Photographic reproduction of a painting by John Trumbull, 1818. Numbered annotations have been added to identify the Middle Templars in this image."
+              attribution="John Trumbull, Public domain, via Wikimedia Commons.">
 5: McKean
 <param ve-image 
       url="https://github.com/user-attachments/assets/15bbe80c-4e6f-4e5b-a803-f1f54691e0ec"
@@ -302,10 +321,9 @@ This painting of an imagined scene includes the five Middle Temple Signatories:
 John Laurens was the son of a rice planter, trader in enslaved people and future Founding Father. He joined the Inn in 1772, but abandoned his studies and returned to join the revolution in 1777, serving as aide-de-camp to Washington with Hamilton and Lafayette. He fought at Charleston, Savannah and Yorktown and was killed in a skirmish with a British foraging party in 1782. He opposed slavery and promoted the emancipation of enslaved people in return for military service.
 <param ve-image 
       url="https://github.com/user-attachments/assets/d260c1a3-acc7-4673-a589-187eacf02a21"
-              caption="Posthumous portrait of John Laurens after a portrait by Charles Fraser, presented to the Middle Temple by Thomas Ashe Lockhart in 2004."
+              caption="Posthumous portrait of John Laurens after a portrait by Charles Fraser, presented to the Middle Temple by Thomas Ashe Lockhart in 2004.">
 
 ##
-<img width="1517" height="1990" alt="Thirty Five" src="https://github.com/user-attachments/assets/d260c1a3-acc7-4673-a589-187eacf02a21" />
 
 
 ## Banastre Tarleton (1754-1833)
