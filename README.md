@@ -132,9 +132,6 @@ He practiced law and wrote profusely on colonial rights and against the impositi
 “I have taken as much Pleasure in unravelling an intricate Point of Law as a Florist receives, When he sees some favourite flower, which he has long tended himself, at last unfold its glowing Colours, & breathe its sweet Perfumes”
 <br><br>
 “I fly to Books, to Retirement, to Labour, & every Moment is an Age, till I am immersed in Study.”
-<br><br>
-[URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107)
-
 <param ve-iframe src="https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107">
 
 ## Silver cauldron salt, 1756, and two silver pepper casters, 1751 and 1762
@@ -151,12 +148,7 @@ This engraving shows the Hall as it would have looked in the mid-eighteenth cent
 “When I view the Hall, where the most important Questions have been debated, where a Hampden, and a Holt have opposed encroaching Power... in short upon whose Judgements, the Happiness of a Nation has depended, I am filled with Awe & Reverence.”
 <br><br>
 “I have enterd into Commons, that is, dining in Term time in the publick hall. We always have with us some of the… Benchers, and frequently some of the greatest lawyers.”
-<br><br>
-[URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126)
-<param ve-image 
-      url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
-             attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
-              caption="John Dickinson">
+<param ve-iframe src="https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126">
 
 ## Edward Rutledge’s Surrender of Chambers at 6 Pump Court, 4 July 1772
 Many American students took chambers in the Inn. Edward Rutledge, who went on to be the youngest signatory to the Declaration of Independence, lived at 6 Pump Court during his time here. The building still stands, well-known for a sundial dating from 1686, which would have been familiar to Rutledge.
@@ -169,12 +161,7 @@ Many American students took chambers in the Inn. Edward Rutledge, who went on to
 “A laundress attends by seven in the morning, lights our fire, brings the bread, milk & butter, & puts on our tea kettle. We wait on ourselves at breakfast, which is no manner of trouble...
 <br><br>
 We then follow our studies till three or four o’clock, then we dine... we step into the coffee house, & in a little time return to our chambers for the evening.”
-<br><br>
-[URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=95](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=95)
-<param ve-image 
-      url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
-             attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
-              caption="John Dickinson">
+<param ve-iframe src="https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=95](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=95">
 
 ## ‘Law is a Bottomless Pit’, c1745 © The Trustees of the British Museum
 Students at the Middle Temple would often attend the courts in Westminster Hall, just a short walk or boat ride along the river, to observe the law in action first hand.
@@ -189,12 +176,7 @@ This satirical print shows the Court of King’s Bench in Westminster Hall. In t
 
 ## John Dickinson on the law courts at Westminster Hall 
 “Here we are not always plodding over books: Westminster Hall is a school of law where we not only hear what we have read repeated, but disputed & sifted in the most learned manner… The Barr is a perfect comment upon the written law, & every great man at it is in some measure a master & instructor to students who have the wisdom to attend.”
-<br><br>
-[URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=118](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=118)
-<param ve-image 
-      url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
-             attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
-              caption="John Dickinson">
+<param ve-iframe src="https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=118](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=118">
 
 ## Playing Cards
 In moments of leisure between time spent studying legal tomes and attending court, students would have engaged in quiet pastimes such as playing cards. This deck is a reproduction of one from around 1750.
@@ -216,12 +198,7 @@ Coffee houses were key centres for conversation, debate and the exchange of info
 “As to the vicious pleasures of London, I know not what they are; I never hear [or] think of them.”
 <br><br>
 “More is learnt of mankind here in a month than can be in a year in any other part of the world.”
-<br><br>
-[URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=98](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=98)
-<param ve-image 
-      url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
-             attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
-              caption="John Dickinson">
+<param ve-iframe src="https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=98](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=98">
 
 <h1>Revolution</h1>
 British taxation of its American colonies in the 1760s led to a war of words in which members of the Inn played a key role. John Dickinson wrote his influential Letters from a Farmer in Pennsylvania in response to the Townshend Acts of 1767, and in London the Middle Templar MPs Edmund Burke and John Dunning were among those advocating for the colonists and their grievances.
@@ -380,12 +357,7 @@ His writings on individual rights, philosophical architecture, and balanced appr
 
 ## Edmund Burke on the popularity of Blackstone
 “In no country perhaps in the world is the law so general a study… I have been told by an eminent bookseller that in no branch of his business, after tracts of popular devotion, were so many books as those on the law exported to the plantations. The colonists have now fallen into the way of printing them for their own use. I hear that they have sold nearly as many of Blackstone’s Commentaries in America as in England… This study renders men acute, inquisitive, prompt in attack, ready in defence, full of resources.”
-<br><br>
-URL: [https://archive.org/details/speechofedmundbu00burkiala/page/n39/mode/2up](https://archive.org/details/speechofedmundbu00burkiala/page/n39/mode/2up )
-<param ve-image 
-      url="https://github.com/user-attachments/assets/93c8001c-89d2-4618-a0a0-0ece95cfecc0"
-             attribution="Joshua Reynolds, Public domain, via Wikimedia Commons"
-              caption="Edmund Burke">
+<param ve-iframe src="https://archive.org/details/speechofedmundbu00burkiala/page/n39/mode/2up](https://archive.org/details/speechofedmundbu00burkiala/page/n39/mode/2up">
 
 <H1>After Independence</H1>
 While admissions to the Inn from the newly independent United States declined, there were some notable exceptions, including Thomas Morris Chester, the first African American to be Called to the Bar in London.
