@@ -142,7 +142,7 @@ This engraving shows the Hall as it would have looked in the mid-eighteenth cent
 “When I view the Hall, where the most important Questions have been debated, where a Hampden, and a Holt have opposed encroaching Power... in short upon whose Judgements, the Happiness of a Nation has depended, I am filled with Awe & Reverence.”
 <br><br>
 “I have enterd into Commons, that is, dining in Term time in the publick hall. We always have with us some of the… Benchers, and frequently some of the greatest lawyers.”
-<param ve-iframe src="https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126">
+<param ve-iframe src="https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=126]">
 
 ## Edward Rutledge’s Surrender of Chambers at 6 Pump Court, 4 July 1772
 Many American students took chambers in the Inn. Edward Rutledge, who went on to be the youngest signatory to the Declaration of Independence, lived at 6 Pump Court during his time here. The building still stands, well-known for a sundial dating from 1686, which would have been familiar to Rutledge.
