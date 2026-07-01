@@ -346,8 +346,6 @@ His writings on individual rights, philosophical architecture, and balanced appr
       url="https://github.com/user-attachments/assets/7d399e8e-7161-47f8-bc8c-a4904e8a8fb4">
 <param ve-image 
       url="https://github.com/user-attachments/assets/d1788ca3-de58-4265-afa8-bb68516af6ce">
-<param ve-image 
-      url="https://github.com/user-attachments/assets/c6960a55-6fa2-4ce5-98c8-36f0ae27f23e">
 
 ## Edmund Burke on the popularity of Blackstone
 “In no country perhaps in the world is the law so general a study… I have been told by an eminent bookseller that in no branch of his business, after tracts of popular devotion, were so many books as those on the law exported to the plantations. The colonists have now fallen into the way of printing them for their own use. I hear that they have sold nearly as many of Blackstone’s Commentaries in America as in England… This study renders men acute, inquisitive, prompt in attack, ready in defence, full of resources.”
