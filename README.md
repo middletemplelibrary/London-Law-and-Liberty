@@ -31,6 +31,12 @@ Magna Carta went on to underpin the US Constitution and the Bill of Rights in it
 
 ## Middle Templars’ Associations with America, Sir Lynden Macassey KBE, 1998
 This volume, by Sir Lynden Macassey, Treasurer 1934 and Honorary member of the American Bar Association, discusses the many links between members of the Inn and the United States of America.[
+<param ve-image 
+      url="https://github.com/user-attachments/assets/9e459b30-d3e3-4b81-bfb8-58efe72bd8bb">
+
+##
+<img width="1653" height="2338" alt="Four" src="https://github.com/user-attachments/assets/9e459b30-d3e3-4b81-bfb8-58efe72bd8bb" />
+
 
 ## Admission of Benjamin Lynde, 1692
 This volume, recording admissions to the Inn, details the first known member from the English colonies in America. The young man in question was Benjamin Lynde, described as the 3rd son of the merchant Samuel Lynde, ‘de Boston in Nova Anglia’.
@@ -128,10 +134,8 @@ He practiced law and wrote profusely on colonial rights and against the impositi
 “I fly to Books, to Retirement, to Labour, & every Moment is an Age, till I am immersed in Study.”
 <br><br>
 [URL: https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107)
-<param ve-image 
-      url="https://github.com/user-attachments/assets/f67f1b73-0abb-4b04-b91a-922a455ac2d1"
-             attribution="Charles Willson Peale, Public domain, via Wikimedia Commons."
-              caption="John Dickinson">
+
+<param ve-iframe src="https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107">
 
 ## Silver cauldron salt, 1756, and two silver pepper casters, 1751 and 1762
 Tableware such as this would have been a common sight in Hall during the eighteenth century. The salt was made by David Hennell of Gutter Lane and purchased in 1757. The pepper casters were made by Samuel Wood of Foster Lane and given in 1991 by Mark Emsley lee.
@@ -557,6 +561,10 @@ The Inn’s long-standing links with the United States endure today in many form
 The Inn regularly welcomes visitors and delegations from the United States, and recently hosted an ABA conference in London marking 100 years since the 1924 visit. Middle Templars also often cross the Atlantic for Amity Visits, mooting competitions and more.
 <br><br>
 Master Mark Rylance’s comments in the programme notes for his 2006 performance at the quatercentenary of the Virginia Charter conclude: “Long live the friendship between America and the Middle Temple… may that friendship continue to be a force for liberty, justice and good government between all people.” We look forward to the next 250 years.
+
+
+##
+
 
 ## Middle Temple visits to the United States, 2011-2025
 Recent years have seen many official excursions by Middle Templars to the US, on Amity Visits, mooting trips and more. 
