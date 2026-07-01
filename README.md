@@ -30,7 +30,11 @@ Magna Carta went on to underpin the US Constitution and the Bill of Rights in it
 ## Middle Templars’ Associations with America, Sir Lynden Macassey KBE, 1998
 This volume, by Sir Lynden Macassey, Treasurer 1934 and Honorary member of the American Bar Association, discusses the many links between members of the Inn and the United States of America.
 <param ve-image 
-      url="https://github.com/user-attachments/assets/9e459b30-d3e3-4b81-bfb8-58efe72bd8bb">
+      url="https://github.com/user-attachments/assets/a02445ec-79c9-4279-a102-c7e68fd0f564">
+
+##
+<img width="1653" height="2338" alt="Four" src="https://github.com/user-attachments/assets/a02445ec-79c9-4279-a102-c7e68fd0f564" />
+
 
 ## Admission of Benjamin Lynde, 1692
 This volume, recording admissions to the Inn, details the first known member from the English colonies in America. The young man in question was Benjamin Lynde, described as the 3rd son of the merchant Samuel Lynde, ‘de Boston in Nova Anglia’.
@@ -525,9 +529,11 @@ The Inn’s long-standing links with the United States endure today in many form
 The Inn regularly welcomes visitors and delegations from the United States, and recently hosted an ABA conference in London marking 100 years since the 1924 visit. Middle Templars also often cross the Atlantic for Amity Visits, mooting competitions and more.
 <br><br>
 Master Mark Rylance’s comments in the programme notes for his 2006 performance at the quatercentenary of the Virginia Charter conclude: “Long live the friendship between America and the Middle Temple… may that friendship continue to be a force for liberty, justice and good government between all people.” We look forward to the next 250 years.
-
+<param ve-image 
+      url="https://github.com/user-attachments/assets/be81d417-5883-476f-897e-a3a008c6844c">
 
 ##
+<img width="1653" height="2338" alt="Fifty Eight" src="https://github.com/user-attachments/assets/be81d417-5883-476f-897e-a3a008c6844c" />
 
 
 ## Middle Temple visits to the United States, 2011-2025
