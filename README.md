@@ -126,7 +126,7 @@ He practiced law and wrote profusely on colonial rights and against the impositi
 “I have taken as much Pleasure in unravelling an intricate Point of Law as a Florist receives, When he sees some favourite flower, which he has long tended himself, at last unfold its glowing Colours, & breathe its sweet Perfumes”
 <br><br>
 “I fly to Books, to Retirement, to Labour, & every Moment is an Age, till I am immersed in Study.”
-<param ve-iframe src="https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107](https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107">
+<param ve-iframe src="https://www.jdproject.org/_files/ugd/fc1edd_4dde387737094977b8e95a51aa57856b.pdf#page=107]">
 
 ## Silver cauldron salt, 1756, and two silver pepper casters, 1751 and 1762
 Tableware such as this would have been a common sight in Hall during the eighteenth century. The salt was made by David Hennell of Gutter Lane and purchased in 1757. The pepper casters were made by Samuel Wood of Foster Lane and given in 1991 by Mark Emsley lee.
