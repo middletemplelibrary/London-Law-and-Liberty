@@ -17,8 +17,6 @@ Commissioned by the American Bar Association in 1928 to celebrate their 50th ann
 <param ve-image 
       url="https://github.com/user-attachments/assets/b7a39781-428b-410c-9896-0ab6781ae3fc">
 <param ve-image 
-      url="https://github.com/user-attachments/assets/4c4c0993-c5ca-43f7-8235-a7bbac05fb7c">
-<param ve-image 
       url="https://github.com/user-attachments/assets/01509faf-6e1f-479a-bae2-9d1b4645c56e">
 
 ## Engraving of Temple Church, 1816
@@ -30,13 +28,9 @@ Magna Carta went on to underpin the US Constitution and the Bill of Rights in it
              attribution="Engraved by Sands, from a Drawing by J.P.Neale">
 
 ## Middle Templars’ Associations with America, Sir Lynden Macassey KBE, 1998
-This volume, by Sir Lynden Macassey, Treasurer 1934 and Honorary member of the American Bar Association, discusses the many links between members of the Inn and the United States of America.[
+This volume, by Sir Lynden Macassey, Treasurer 1934 and Honorary member of the American Bar Association, discusses the many links between members of the Inn and the United States of America.
 <param ve-image 
       url="https://github.com/user-attachments/assets/9e459b30-d3e3-4b81-bfb8-58efe72bd8bb">
-
-##
-<img width="1653" height="2338" alt="Four" src="https://github.com/user-attachments/assets/9e459b30-d3e3-4b81-bfb8-58efe72bd8bb" />
-
 
 ## Admission of Benjamin Lynde, 1692
 This volume, recording admissions to the Inn, details the first known member from the English colonies in America. The young man in question was Benjamin Lynde, described as the 3rd son of the merchant Samuel Lynde, ‘de Boston in Nova Anglia’.
@@ -58,7 +52,7 @@ The colony eventually turned a corner, thanks to the cultivation of tobacco on p
              Caption="North America on the terrestrial Molyneux Globe.">
 
 ## Armorial Glass of Sir Walter Raleigh
-Raleigh joined the Inn in 1574, although like many was never Called to the Bar. He was granted in 1584 a charter authorising him to explore, colonise and rule territories already inhabited by Indigenous peoples, described as ‘remote, heathen and barbarous lands’, terms which reflect the prejudices and assumptions of the period.[
+Raleigh joined the Inn in 1574, although like many was never Called to the Bar. He was granted in 1584 a charter authorising him to explore, colonise and rule territories already inhabited by Indigenous peoples, described as ‘remote, heathen and barbarous lands’, terms which reflect the prejudices and assumptions of the period.
 <param ve-image 
       url="https://github.com/user-attachments/assets/d28190ba-f22e-4bec-855f-a4f6d93ffe0c"
              Caption="Armorial Glass of Sir Walter Raleigh, north window of Middle Temple Hall.">
@@ -323,7 +317,7 @@ Following the 1783 Peace of Paris, the independent states were loosely and somew
 <br><br>
 Dickinson and Rutledge both played pivotal roles in resolving an early debate over voting rights between the states. Rutledge was appointed chair of the Committee of Detail, tasked with producing a first draft of the Constitution. The Committee completed its task after ten days of intensive work, thanks in part to his energy and perseverance.
 <br><br>
-The amended draft was eventually adopted and thirty-nine delegates signed the new Constitution on 17 September, among them the seven Middle Templars present. The education and experience they gained while students at the Inn can clearly be discerned in this foundational legal text, along with the influence of their deep reading and immersion in the English Common Law.[BB9.1]
+The amended draft was eventually adopted and thirty-nine delegates signed the new Constitution on 17 September, among them the seven Middle Templars present. The education and experience they gained while students at the Inn can clearly be discerned in this foundational legal text, along with the influence of their deep reading and immersion in the English Common Law.
 <br><br>
 [Image from the General Records of the United States Government.](https://docsteach.org/document/constitution/)
 <param ve-image 
