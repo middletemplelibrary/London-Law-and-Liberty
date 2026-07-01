@@ -86,7 +86,7 @@ Elizabeth and Frederick’s great-great-great-grandson was King George III, who 
 <param ve-image 
       url="https://github.com/user-attachments/assets/158170d0-0037-4d7a-ae32-feb56e387ae5"
               Attribution="CC BY-NC-ND 3.0"
-             Caption="Princess Elizabeth, Queen of Bohemia and Electress Palatine, by Unknown artist, oil on panel, 1613, NPG 5529 © National Portrait Gallery, London">
+             Label="Princess Elizabeth, Queen of Bohemia and Electress Palatine, by Unknown artist, oil on panel, 1613, NPG 5529 © National Portrait Gallery, London">
 
 <h1>American Students at the Inn</h1>
 
